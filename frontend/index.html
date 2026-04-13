@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartAgri - AI Farming Assistant</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Load a nice modern font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-animation"></div>
+    
+    <div class="container relative-z">
+        
+        <header class="landing-header">
+            <h2>🌱 SmartAgri</h2>
+        </header>
+
+        <div class="hero-section">
+            <div class="hero-text">
+                <h1>The Future of<br><span class="gradient-text">Farming is Here.</span></h1>
+                <p class="hero-subtitle">Empowering your farm with AI, real-time weather analytics, and intelligent crop forecasting.</p>
+                
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <span class="stat-value">98%</span>
+                        <span class="stat-label">Yield Accuracy</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value">24/7</span>
+                        <span class="stat-label">AI Advisory</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value">Zero</span>
+                        <span class="stat-label">Guesswork</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="glass-card auth-card">
+                <!-- Login Container -->
+                <div id="loginContainer">
+                    <h2 class="auth-title">Welcome Back</h2>
+                    <p class="auth-subtitle">Login to manage your farm</p>
+                    
+                    <form id="loginForm" class="auth-form">
+                        <div class="form-group">
+                            <label for="username">Username</label>
+                            <input type="text" id="username" name="username" required placeholder="Enter your username">
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <input type="password" id="password" name="password" required placeholder="Enter your password">
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Login to Dashboard</button>
+                    </form>
+                    
+                    <div id="loginMessage" class="message"></div>
+                    
+                    <div class="auth-switch">
+                        <p>Don't have an account? <a href="#" onclick="toggleAuth('register'); return false;">Sign up</a></p>
+                    </div>
+                    
+                    <div class="demo-info">
+                        <p><strong>Demo Access:</strong> admin / password</p>
+                    </div>
+                </div>
+
+                <!-- Register Container -->
+                <div id="registerContainer" style="display: none;">
+                    <h2 class="auth-title">Create Account</h2>
+                    <p class="auth-subtitle">Join the farming revolution</p>
+                    
+                    <form id="registerForm" class="auth-form">
+                        <div class="form-group">
+                            <label for="regName">Full Name</label>
+                            <input type="text" id="regName" required placeholder="John Doe">
+                        </div>
+                        <div class="form-group">
+                            <label for="regUsername">Username</label>
+                            <input type="text" id="regUsername" required placeholder="Choose a username">
+                        </div>
+                        <div class="form-group">
+                            <label for="regPassword">Password</label>
+                            <input type="password" id="regPassword" required placeholder="Create a strong password">
+                        </div>
+                        <div class="form-group">
+                            <label for="regFarmSize">Farm Size / Type (Optional)</label>
+                            <input type="text" id="regFarmSize" placeholder="e.g., 5 Acres, Balcony, Greenhouse">
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Create Account</button>
+                    </form>
+                    
+                    <div id="registerMessage" class="message"></div>
+                    
+                    <div class="auth-switch">
+                        <p>Already have an account? <a href="#" onclick="toggleAuth('login'); return false;">Login here</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- How It Works Section -->
+        <div class="how-it-works-section">
+            <h2 class="section-title">How It Works</h2>
+            <div class="steps-grid">
+                <div class="glass-card step-card">
+                    <div class="step-num">1</div>
+                    <h3>Profile Setup</h3>
+                    <p>Enter your location, farm size, and soil type to completely personalize your agricultural AI analysis.</p>
+                </div>
+                <div class="glass-card step-card">
+                    <div class="step-num">2</div>
+                    <h3>AI Generation</h3>
+                    <p>Our intelligent system generates custom crop recommendations, financial estimates, and irrigation plans instantly.</p>
+                </div>
+                <div class="glass-card step-card">
+                    <div class="step-num">3</div>
+                    <h3>Track & Grow</h3>
+                    <p>Log in daily for continuous weather monitoring and real-time disease detection from seed to harvest.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Features Section -->
+        <div class="features-section">
+            <h2 class="section-title">Platform Features</h2>
+            <div class="features-grid">
+                <div class="glass-card feature-card">
+                    <div class="feature-icon">🌾</div>
+                    <h3>Crop Planning</h3>
+                    <p>Get personalized crop recommendations based on your location, season, and soil type.</p>
+                </div>
+
+                <div class="glass-card feature-card">
+                    <div class="feature-icon">🦠</div>
+                    <h3>Disease Detection</h3>
+                    <p>AI-powered disease identification and treatment recommendations.</p>
+                </div>
+
+                <div class="glass-card feature-card">
+                    <div class="feature-icon">💰</div>
+                    <h3>Financial Planning</h3>
+                    <p>Cost estimation, profit analysis, and market price insights.</p>
+                </div>
+
+                <div class="glass-card feature-card">
+                    <div class="feature-icon">💧</div>
+                    <h3>Irrigation Management</h3>
+                    <p>Smart watering schedules based on weather and soil conditions.</p>
+                </div>
+
+                <div class="glass-card feature-card">
+                    <div class="feature-icon">🌤️</div>
+                    <h3>Weather Integration</h3>
+                    <p>Real-time weather data and 5-day predictive farming recommendations.</p>
+                </div>
+
+                <div class="glass-card feature-card">
+                    <div class="feature-icon">🤖</div>
+                    <h3>AI Advisory</h3>
+                    <p>Chat with our intelligent bot to get expert organic and commercial farming advice.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Home Gardening Assistant - Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Sidebar -->
+        <nav class="sidebar">
+            <div class="sidebar-header">
+                <h2>🌱 Smart Garden</h2>
+            </div>
+            <ul class="sidebar-menu">
+                <li><a href="#dashboard" class="active" onclick="showSection('dashboard')">
+                    <span class="icon">📊</span>
+                    <span class="lang-en">Dashboard</span><span class="lang-hi">डैशबोर्ड</span>
+                </a></li>
+                <li><a href="#crop-planning" onclick="showSection('crop-planning')">
+                    <span class="icon">🌾</span>
+                    <span class="lang-en">Crop Selection</span><span class="lang-hi">फसल चयन</span>
+                </a></li>
+                <li><a href="#crop-info" onclick="showSection('crop-info')">
+                    <span class="icon">📚</span>
+                    <span class="lang-en">Crop Info</span><span class="lang-hi">फसल जानकारी</span>
+                </a></li>
+                <li><a href="#disease-detection" onclick="showSection('disease-detection')">
+                    <span class="icon">🦠</span>
+                    <span class="lang-en">Diseases</span><span class="lang-hi">बीमारियां</span>
+                </a></li>
+                <li><a href="#market-prices" onclick="showSection('market-prices')">
+                    <span class="icon">💰</span>
+                    <span class="lang-en">Market Prices</span><span class="lang-hi">बाजार भाव</span>
+                </a></li>
+                <li><a href="#finance" onclick="showSection('finance')">
+                    <span class="icon">📈</span>
+                    <span class="lang-en">Finances</span><span class="lang-hi">वित्त सहायता</span>
+                </a></li>
+                <li><a href="#irrigation" onclick="showSection('irrigation')">
+                    <span class="icon">💧</span>
+                    <span class="lang-en">Irrigation</span><span class="lang-hi">सिंचाई</span>
+                </a></li>
+                <li><a href="#weather" onclick="showSection('weather')">
+                    <span class="icon">🌤️</span>
+                    <span class="lang-en">Weather</span><span class="lang-hi">मौसम</span>
+                </a></li>
+                <li><a href="#advisory" onclick="showSection('advisory')">
+                    <span class="icon">🤖</span>
+                    <span class="lang-en">AI Advisory</span><span class="lang-hi">एआई सलाहकार</span>
+                </a></li>
+            </ul>
+            <div class="sidebar-footer">
+                <button onclick="logout()" class="btn btn-secondary">
+                    <span class="lang-en">Logout</span><span class="lang-hi">लॉगआउट</span>
+                </button>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Dashboard Section -->
+            <section id="dashboard" class="content-section active">
+                <div class="section-header" style="display: flex; justify-content: space-between; align-items: start;">
+                    <div>
+                        <h1><span class="lang-en">Dashboard</span><span class="lang-hi">डैशबोर्ड</span></h1>
+                        <p>
+                            <span class="lang-en">Welcome to your smart gardening assistant</span>
+                            <span class="lang-hi">स्मार्ट बागवानी सहायक में आपका स्वागत है</span>
+                        </p>
+                    </div>
+                    <button onclick="toggleLanguage()" class="btn btn-warning" style="margin-top: 10px;">
+                        <span class="lang-en">Translate to Hindi (हिंदी)</span>
+                        <span class="lang-hi">Switch to English</span>
+                    </button>
+                </div>
+
+                <div class="dashboard-grid">
+                    <div class="dashboard-card">
+                        <h3><span class="lang-en">User Profile</span><span class="lang-hi">उपयोगकर्ता प्रोफ़ाइल</span></h3>
+                        <div id="user-profile">
+                            <p><span class="lang-en">Loading user details...</span><span class="lang-hi">उपयोगकर्ता विवरण लोड हो रहा है...</span></p>
+                        </div>
+                    </div>
+
+                    <div class="dashboard-card">
+                        <h3><span class="lang-en">Quick Actions</span><span class="lang-hi">त्वरित क्रियाएं</span></h3>
+                        <div class="quick-actions">
+                            <button onclick="showSection('crop-planning')" class="btn btn-primary">
+                                <span class="lang-en">Plan Crops</span><span class="lang-hi">फसल योजना</span>
+                            </button>
+                            <button onclick="showSection('soil-health')" class="btn btn-secondary">
+                                <span class="lang-en">Check Soil</span><span class="lang-hi">मिट्टी जाँच</span>
+                            </button>
+                            <button onclick="showSection('disease-detection')" class="btn btn-warning">
+                                <span class="lang-en">Detect Disease</span><span class="lang-hi">रोग पहचान</span>
+                            </button>
+                        </div>
+                    </div>
+
+
+
+                    <div class="dashboard-card" style="grid-column: 1 / -1;">
+                        <h3>Recent Activity</h3>
+                        <div id="recent-conversations">
+                            <p>Loading activity log...</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Crop Planning Section -->
+            <section id="crop-planning" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">Crop Planning</span><span class="lang-hi">फसल योजना</span></h1>
+                    <p><span class="lang-en">Get personalized crop recommendations</span><span class="lang-hi">व्यक्तिगत फसल सुझाव प्राप्त करें</span></p>
+                </div>
+
+                <div class="form-card">
+                    <form id="cropForm">
+                        <div class="form-row">
+                            <div class="form-group" style="width: 100%;">
+                                <label for="farmingPurpose">
+                                    <span class="lang-en">Purpose of Farming</span><span class="lang-hi">खेती का उद्देश्य</span>
+                                </label>
+                                <select id="farmingPurpose" onchange="toggleFarmingPurposeFields()">
+                                    <option value="">-- Select Purpose --</option>
+                                    <option value="personal">Personal Use (Home Gardening)</option>
+                                    <option value="commercial">Commercial Farming (Profit)</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <!-- Personal Use Fields -->
+                        <div id="personalFields" class="form-row" style="display: none;">
+                            <div class="form-group">
+                                <label for="personalClimate"><span class="lang-en">Climate</span><span class="lang-hi">जलवायु</span></label>
+                                <select id="personalClimate">
+                                    <option value="">-- Select Climate --</option>
+                                    <option value="Tropical">Tropical (Hot & Humid)</option>
+                                    <option value="Temperate">Temperate (Moderate)</option>
+                                    <option value="Dry">Dry / Arid</option>
+                                    <option value="Cold">Cold</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="personalSoil"><span class="lang-en">Soil</span><span class="lang-hi">मिट्टी</span></label>
+                                <select id="personalSoil">
+                                    <option value="">-- Select Soil Type --</option>
+                                    <option value="Potting Mix">Potting Mix</option>
+                                    <option value="Garden Soil">Garden Soil</option>
+                                    <option value="Sandy">Sandy</option>
+                                    <option value="Clay">Clay</option>
+                                    <option value="Coco Coir">Coco Coir</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="personalWater"><span class="lang-en">Water Availability</span><span class="lang-hi">जल उपलब्धता</span></label>
+                                <select id="personalWater">
+                                    <option value="">-- Select Watering --</option>
+                                    <option value="Daily">Daily (Tap/Hose)</option>
+                                    <option value="Irregular">Irregular</option>
+                                    <option value="Rainwater">Rainwater Reliance</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="personalSpace"><span class="lang-en">Space</span><span class="lang-hi">स्थान</span></label>
+                                <select id="personalSpace">
+                                    <option value="">-- Select Space --</option>
+                                    <option value="Balcony/Pots">Balcony / Pots</option>
+                                    <option value="Backyard">Backyard Garden</option>
+                                    <option value="Rooftop">Rooftop</option>
+                                    <option value="Indoors">Indoors</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="personalSeason">Season</label>
+                                <select id="personalSeason">
+                                    <option value="">-- Select Season --</option>
+                                    <option value="Spring">Spring</option>
+                                    <option value="Summer">Summer</option>
+                                    <option value="Fall">Fall</option>
+                                    <option value="Winter">Winter</option>
+                                    <option value="Year-round">Year-round (Indoors)</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="personalDuration">Crop Duration</label>
+                                <select id="personalDuration">
+                                    <option value="">-- Select Duration --</option>
+                                    <option value="Fast">Fast-growing (1-2 months)</option>
+                                    <option value="Medium">Medium (3-4 months)</option>
+                                    <option value="Long">Long-term (5+ months)</option>
+                                </select>
+                            </div>
+                            <div class="form-group" style="display: flex; align-items: center; height: 100%;">
+                                <label style="margin-bottom: 0;">
+                                    <input type="checkbox" id="personalLowMaintenance"> Low Maintenance Crops
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- Commercial Use Fields -->
+                        <div id="commercialFields" class="form-row" style="display: none;">
+                            <div class="form-group">
+                                <label for="commercialClimate">Climate</label>
+                                <select id="commercialClimate">
+                                    <option value="">-- Select Climate --</option>
+                                    <option value="Tropical">Tropical</option>
+                                    <option value="Subtropical">Subtropical</option>
+                                    <option value="Temperate">Temperate</option>
+                                    <option value="Arid">Arid</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="commercialSoil">Soil Type</label>
+                                <select id="commercialSoil">
+                                    <option value="">-- Select Soil Type --</option>
+                                    <option value="Loamy">Loamy</option>
+                                    <option value="Clay">Clay</option>
+                                    <option value="Sandy">Sandy</option>
+                                    <option value="Silty">Silty</option>
+                                    <option value="Peat">Peat</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="commercialWater">Water Availability</label>
+                                <select id="commercialWater">
+                                    <option value="">-- Select Irrigation --</option>
+                                    <option value="Drip Irrigation">Drip Irrigation</option>
+                                    <option value="Sprinklers">Sprinklers</option>
+                                    <option value="Flood">Flood/Canal</option>
+                                    <option value="Rain-fed">Rain-fed</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="commercialMarket">Market Demand</label>
+                                <select id="commercialMarket">
+                                    <option value="">-- Select Market --</option>
+                                    <option value="Local">Local Market</option>
+                                    <option value="Export">Export</option>
+                                    <option value="Processing">Processing Industry</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="commercialProfitability">Profitability Target</label>
+                                <select id="commercialProfitability">
+                                    <option value="">-- Select Target --</option>
+                                    <option value="High Margin">High Margin</option>
+                                    <option value="Stable Volume">Stable Volume</option>
+                                    <option value="Quick Cash">Quick Cash Cycle</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="commercialPest">Pest Management</label>
+                                <select id="commercialPest">
+                                    <option value="">-- Select Approach --</option>
+                                    <option value="Organic">Organic / Biological</option>
+                                    <option value="Chemical">Chemical</option>
+                                    <option value="IPM">Integrated Pest Management (IPM)</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="commercialCost">Cost of Production</label>
+                                <select id="commercialCost">
+                                    <option value="">-- Select Budget --</option>
+                                    <option value="Low">Low Budget</option>
+                                    <option value="Medium">Medium Budget</option>
+                                    <option value="High">High Investment</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="commercialLand">Land Size</label>
+                                <select id="commercialLand">
+                                    <option value="">-- Select Farm Size --</option>
+                                    <option value="1-5 Acres">1 - 5 Acres</option>
+                                    <option value="5-20 Acres">5 - 20 Acres</option>
+                                    <option value="20+ Acres">20+ Acres</option>
+                                    <option value="Greenhouse">Commercial Greenhouse</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary" id="cropSubmitBtn" style="display: none; margin-top: 15px;">
+                            <span class="lang-en">Get Recommendations</span><span class="lang-hi">सुझाव प्राप्त करें</span>
+                        </button>
+                    </form>
+                </div>
+
+                <div id="cropResults" class="results-section"></div>
+            </section>
+
+            <!-- Crop Info Section -->
+            <section id="crop-info" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">Crop Information</span><span class="lang-hi">फसल की जानकारी</span></h1>
+                    <p><span class="lang-en">Search our encyclopedia of 1000+ crops for detailed agricultural data</span><span class="lang-hi">विस्तृत कृषि डेटा के लिए हमारे 1000+ फसलों के विश्वकोश में खोजें</span></p>
+                </div>
+
+                <div class="search-container" style="margin-bottom: 20px;">
+                    <form id="cropInfoForm" style="display: flex; gap: 10px;">
+                        <select id="cropInfoSearch" style="flex: 1; padding: 12px; border-radius: 8px; border: 1px solid #ccc; background: #fff; color: #000; font-size: 16px;" required>
+                            <option value="" disabled selected>Select a crop to search...</option>
+                        </select>
+                        <button type="submit" class="btn btn-primary" style="padding: 12px 24px; border-radius: 8px;">
+                            <span class="lang-en">Search</span><span class="lang-hi">खोजें</span>
+                        </button>
+                    </form>
+                </div>
+
+                <div id="cropInfoResults" class="results-section">
+                    <div style="text-align: center; color: #666; padding: 40px;">
+                        <span style="font-size: 3rem; display: block; margin-bottom: 15px;">🔍</span>
+                        <p>Search to find planting guides, growing requirements, and harvesting plans.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Soil Health Section -->
+            <section id="soil-health" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">Soil Health Analysis</span><span class="lang-hi">मिट्टी स्वास्थ्य विश्लेषण</span></h1>
+                    <p><span class="lang-en">Analyze your soil conditions</span><span class="lang-hi">अपनी मिट्टी की स्थिति का विश्लेषण करें</span></p>
+                </div>
+
+                <div class="form-card">
+                    <form id="soilForm">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="phLevel">pH Level</label>
+                                <input type="number" id="phLevel" step="0.1" min="0" max="14" placeholder="6.5">
+                            </div>
+                            <div class="form-group">
+                                <label for="soilTypeAnalysis">Soil Type</label>
+                                <select id="soilTypeAnalysis">
+                                    <option value="clay">Clay</option>
+                                    <option value="sandy">Sandy</option>
+                                    <option value="loamy">Loamy</option>
+                                    <option value="silty">Silty</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="color">Soil Color</label>
+                                <select id="color">
+                                    <option value="dark">Dark Brown/Black</option>
+                                    <option value="brown">Brown</option>
+                                    <option value="red">Red</option>
+                                    <option value="yellow">Yellow/Pale</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="moisture">Moisture Level</label>
+                                <select id="moisture">
+                                    <option value="dry">Dry</option>
+                                    <option value="low">Low</option>
+                                    <option value="medium">Medium</option>
+                                    <option value="high">High</option>
+                                    <option value="wet">Wet</option>
+                                </select>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Analyze Soil</button>
+                    </form>
+                </div>
+
+                <div id="soilResults" class="results-section"></div>
+            </section>
+
+            <!-- Disease Detection Section -->
+            <section id="disease-detection" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">Disease Detection</span><span class="lang-hi">रोग की पहचान</span></h1>
+                    <p><span class="lang-en">Identify crop diseases and get treatment advice</span><span class="lang-hi">फसल रोगों की पहचान करें और उपचार की सलाह लें</span></p>
+                </div>
+
+                <div class="form-card">
+                    <form id="diseaseForm">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="cropName"><span class="lang-en">Crop Name</span><span class="lang-hi">फसल का नाम</span></label>
+                                <input type="text" id="cropName" placeholder="e.g., Tomato, Wheat">
+                            </div>
+                            <div class="form-group" style="width: 100%;">
+                                <label for="diseaseImage"><span class="lang-en">Upload Photo</span><span class="lang-hi">फोटो अपलोड करें</span></label>
+                                <input type="file" id="diseaseImage" accept="image/*" onchange="previewDiseaseImage(event)" style="padding: 10px; background: #fff; border: 1px solid #ccc; border-radius: 8px;">
+                                <div id="imagePreviewContainer" style="margin-top: 15px; display: none; text-align: center;">
+                                    <img id="diseaseImagePreview" src="" alt="Image Preview" style="max-height: 250px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                                    <p style="color: #666; font-size: 0.9em; margin-top: 5px;">Image ready for CNN Analysis</p>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">
+                            <span class="lang-en">Detect Disease</span><span class="lang-hi">बीमारी की पहचान करें</span>
+                        </button>
+                    </form>
+                </div>
+
+                <div id="diseaseResults" class="results-section"></div>
+            </section>
+
+            <!-- Market Prices Section -->
+            <section id="market-prices" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">Market Prices</span><span class="lang-hi">बाजार मूल्य</span></h1>
+                    <p><span class="lang-en">Current market prices and trends</span><span class="lang-hi">वर्तमान बाजार भाव और रुझान</span></p>
+                </div>
+
+                <div class="search-container" style="margin-bottom: 20px;">
+                    <input type="text" id="marketSearch" onkeyup="filterMarketPrices()" placeholder="Search for a crop..." style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #ccc; background: #fff; color: #000; font-size: 16px;">
+                </div>
+
+                <div id="pricesResults" class="results-section">
+                    <div class="loading">Loading market prices...</div>
+                </div>
+            </section>
+
+            <!-- Finance Section -->
+            <section id="finance" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">Financial Planning</span><span class="lang-hi">वित्तीय योजना</span></h1>
+                    <p><span class="lang-en">Estimate costs and profits for your crops</span><span class="lang-hi">अपनी फसलों के लिए लागत और लाभ का अनुमान लगाएं</span></p>
+                </div>
+
+                <div class="form-card">
+                    <form id="financeForm">
+                        <div class="form-row">
+                            <div class="form-group" style="width: 100%;">
+                                <label for="financeMode"><span class="lang-en">Planning Mode</span><span class="lang-hi">नियोजन मोड</span></label>
+                                <select id="financeMode" onchange="toggleFinanceMode()">
+                                    <option value="basic">Basic Estimation</option>
+                                    <option value="detailed">Detailed Financial Plan</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <!-- Basic Fields (Always visible) -->
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="financeCrop"><span class="lang-en">Crop Name</span><span class="lang-hi">फसल का नाम</span></label>
+                                <input type="text" id="financeCrop" placeholder="e.g., Tomato, Potato">
+                            </div>
+                            <div class="form-group">
+                                <label for="area"><span class="lang-en">Area (sqm)</span><span class="lang-hi">क्षेत्रफल (वर्ग मीटर)</span></label>
+                                <input type="number" id="area" min="1" placeholder="100">
+                            </div>
+                        </div>
+
+                        <!-- Detailed Fields (Hidden by default) -->
+                        <div id="detailedFinanceFields" style="display: none;">
+                            <h4 style="margin: 15px 0 10px 0; color: #2d5a27;">Manual Costs</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="costFixed">Fixed Costs ($)</label>
+                                    <input type="number" id="costFixed" min="0" placeholder="Lease, insurance, etc.">
+                                </div>
+                                <div class="form-group">
+                                    <label for="costVariable">Variable Costs ($)</label>
+                                    <input type="number" id="costVariable" min="0" placeholder="Seeds, fertilizer, labor">
+                                </div>
+                            </div>
+                            
+                            <h4 style="margin: 15px 0 10px 0; color: #2d5a27;">Market & Yield Assumptions</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="yieldScenario">Yield Scenario</label>
+                                    <select id="yieldScenario">
+                                        <option value="realistic">Realistic (80% yield)</option>
+                                        <option value="optimistic">Optimistic (100% yield)</option>
+                                        <option value="pessimistic">Pessimistic (50% yield)</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="targetPrice">Target Selling Price ($/kg)</label>
+                                    <input type="number" step="0.01" min="0" id="targetPrice" placeholder="Optional custom price">
+                                </div>
+                            </div>
+
+                            <h4 style="margin: 15px 0 10px 0; color: #2d5a27;">Loan Calculator (Optional)</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="loanAmount">Loan Amount ($)</label>
+                                    <input type="number" id="loanAmount" min="0" placeholder="0">
+                                </div>
+                                <div class="form-group">
+                                    <label for="loanInterest">Interest Rate (%)</label>
+                                    <input type="number" step="0.1" id="loanInterest" min="0" placeholder="e.g., 5.0">
+                                </div>
+                                <div class="form-group">
+                                    <label for="loanDuration">Duration (Months)</label>
+                                    <input type="number" id="loanDuration" min="1" placeholder="12">
+                                </div>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary" style="margin-top: 15px;">Calculate Costs</button>
+                    </form>
+                </div>
+
+                <div id="financeResults" class="results-section"></div>
+            </section>
+
+            <!-- Irrigation Section -->
+            <section id="irrigation" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">Irrigation Management</span><span class="lang-hi">सिंचाई प्रबंधन</span></h1>
+                    <p><span class="lang-en">Live system status and automated controls</span><span class="lang-hi">लाइव सिस्टम स्थिति और स्वचालित नियंत्रण</span></p>
+                </div>
+
+                <!-- Status Grid -->
+                <div class="dashboard-grid" style="margin-bottom: 30px;">
+                    <div class="dashboard-card status-card">
+                        <div class="status-icon moisture-icon">💧</div>
+                        <div class="status-details">
+                            <h3><span class="lang-en">Soil Moisture</span><span class="lang-hi">मिट्टी की नमी</span></h3>
+                            <div class="gauge-container">
+                                <div id="moistureGauge" class="gauge-bar" style="width: 0%;"></div>
+                            </div>
+                            <span id="moistureValue" class="status-value">--%</span>
+                            <p id="moistureTrend" class="status-subtitle"><span class="lang-en">Stable</span><span class="lang-hi">स्थिर</span></p>
+                        </div>
+                    </div>
+
+                    <div class="dashboard-card status-card">
+                        <div id="pumpIcon" class="status-icon pump-off">🔌</div>
+                        <div class="status-details">
+                            <h3><span class="lang-en">Pump Status</span><span class="lang-hi">पंप की स्थिति</span></h3>
+                            <span id="pumpStatus" class="status-value">OFF</span>
+                            <p id="pumpAction" class="status-subtitle"><span class="lang-en">System Idle</span><span class="lang-hi">सिस्टम निष्क्रिय</span></p>
+                        </div>
+                    </div>
+
+                    <div class="dashboard-card status-card">
+                        <div class="status-icon usage-icon">📊</div>
+                        <div class="status-details">
+                            <h3><span class="lang-en">Water Consumed</span><span class="lang-hi">पानी की खपत</span></h3>
+                            <span id="waterConsumed" class="status-value">0.0 L</span>
+                            <p class="status-subtitle"><span class="lang-en">Today's total usage</span><span class="lang-hi">आज का कुल उपयोग</span></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dashboard-grid">
+                    <!-- Controls -->
+                    <div class="dashboard-card">
+                        <h3><span class="lang-en">Control Panel</span><span class="lang-hi">कंट्रोल पैनल</span></h3>
+                        <div class="control-group">
+                            <div class="control-item">
+                                <div class="control-label">
+                                    <strong><span class="lang-en">Auto-Irrigation</span><span class="lang-hi">स्वचालित सिंचाई</span></strong>
+                                    <span><span class="lang-en">System maintains target moisture</span><span class="lang-hi">सिस्टम लक्षित नमी बनाए रखता है</span></span>
+                                </div>
+                                <label class="switch">
+                                    <input type="checkbox" id="autoModeToggle" onchange="toggleAutoMode()">
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+
+                            <div class="control-item">
+                                <div class="control-label">
+                                    <strong><span class="lang-en">Manual Pump Control</span><span class="lang-hi">मैन्युअल पंप नियंत्रण</span></strong>
+                                    <span><span class="lang-en">Override system controls</span><span class="lang-hi">सिस्टम नियंत्रण ओवरराइड करें</span></span>
+                                </div>
+                                <button id="pumpToggleBtn" class="btn btn-secondary" onclick="togglePump()">
+                                    <span class="lang-en">Start Pump</span><span class="lang-hi">पंप शुरू करें</span>
+                                </button>
+                            </div>
+
+                            <div class="control-item">
+                                <div class="control-label">
+                                    <strong><span class="lang-en">Target Moisture</span><span class="lang-hi">लक्षित नमी</span></strong>
+                                    <span id="targetMoistureLabel"><span class="lang-en">Threshold: 50%</span><span class="lang-hi">सीमा: 50%</span></span>
+                                </div>
+                                <input type="range" id="targetMoistureRange" min="10" max="90" value="50" oninput="updateTargetMoisture(this.value)">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Recommended Schedule (Existing functionality) -->
+                    <div class="dashboard-card">
+                        <h3><span class="lang-en">Quick Schedule Builder</span><span class="lang-hi">त्वरित शेड्यूलर</span></h3>
+                        <form id="irrigationForm" class="compact-form">
+                            <div class="form-group">
+                                <label for="irrigationCrop"><span class="lang-en">Crop</span><span class="lang-hi">फसल</span></label>
+                                <input type="text" id="irrigationCrop" placeholder="e.g., Tomato" style="padding: 8px;">
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="weatherCondition">Weather</label>
+                                    <select id="weatherCondition" style="padding: 8px;">
+                                        <option value="moderate">Moderate</option>
+                                        <option value="sunny">Sunny</option>
+                                        <option value="cloudy">Cloudy</option>
+                                        <option value="rainy">Rainy</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="soilMoisture">Moisture</label>
+                                    <select id="soilMoisture" style="padding: 8px;">
+                                        <option value="low">Low</option>
+                                        <option value="medium">Medium</option>
+                                        <option value="high">High</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 10px;">
+                                <span>Get Rec <small class="hindi-text">सुझाव प्राप्त करें</small></span>
+                            </button>
+                        </form>
+                        <div id="irrigationResults" style="margin-top: 15px; font-size: 0.9em;"></div>
+                    </div>
+                </div>
+
+                <div class="dashboard-card" style="margin-top: 20px;">
+                    <h3><span class="lang-en">System Activity Log</span><span class="lang-hi">सिस्टम गतिविधि लॉग</span></h3>
+                    <div class="history-table-container">
+                        <table class="history-table">
+                            <thead>
+                                <tr>
+                                    <th><span class="lang-en">Timestamp</span><span class="lang-hi">समय</span></th>
+                                    <th><span class="lang-en">Action</span><span class="lang-hi">क्रिया</span></th>
+                                    <th><span class="lang-en">Source</span><span class="lang-hi">स्रोत</span></th>
+                                    <th><span class="lang-en">Water Used</span><span class="lang-hi">प्रयुक्त जल</span></th>
+                                </tr>
+                            </thead>
+                            <tbody id="irrigationHistoryBody">
+                                <tr><td colspan="4" style="text-align:center; padding:20px; color:#999;">Loading activity log...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Weather Section -->
+            <section id="weather" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">Weather Information</span><span class="lang-hi">मौसम की जानकारी</span></h1>
+                    <p><span class="lang-en">Current weather and farming recommendations</span><span class="lang-hi">वर्तमान मौसम और खेती के सुझाव</span></p>
+                </div>
+
+                <div id="weatherResults" class="results-section">
+                    <div class="loading">Loading weather data...</div>
+                </div>
+            </section>
+
+            <!-- Advisory Section -->
+            <section id="advisory" class="content-section">
+                <div class="section-header">
+                    <h1><span class="lang-en">AI Farming Advisory</span><span class="lang-hi">एआई खेती सलाहकार</span></h1>
+                    <p><span class="lang-en">Get expert advice on farming topics</span><span class="lang-hi">खेती के विषयों पर विशेषज्ञ की सलाह</span></p>
+                </div>
+
+                <div class="chat-container">
+                    <div id="chatMessages" class="chat-messages">
+                        <div class="message bot-message">
+                            <div class="message-content">
+                                <p>Hello! I'm your AI farming assistant. Ask me anything about farming, crops, pests, or gardening!</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="chat-input">
+                        <input type="text" id="advisoryQuery" placeholder="Ask a farming question..." autocomplete="off">
+                        <button onclick="sendAdvisoryQuery()" class="btn btn-primary">Send</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

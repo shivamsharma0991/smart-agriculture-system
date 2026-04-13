@@ -1,0 +1,6862 @@
+{
+  "tomato": {
+    "seed_cost_multiplier": 1.86,
+    "yield_per_sqm": 0.58,
+    "market_price_per_kg": 3.54,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.92
+  },
+  "giant long tomato": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 4.97,
+    "market_price_per_kg": 2.31,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.45
+  },
+  "alpine red tomato": {
+    "seed_cost_multiplier": 2.15,
+    "yield_per_sqm": 1.73,
+    "market_price_per_kg": 4.08,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.24
+  },
+  "giant cherry tomato": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 2.39,
+    "market_price_per_kg": 3.88,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.38
+  },
+  "early roma tomato": {
+    "seed_cost_multiplier": 2.41,
+    "yield_per_sqm": 0.69,
+    "market_price_per_kg": 1.18,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.43
+  },
+  "giant bell tomato": {
+    "seed_cost_multiplier": 0.54,
+    "yield_per_sqm": 1.73,
+    "market_price_per_kg": 4.07,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.95
+  },
+  "wild long tomato": {
+    "seed_cost_multiplier": 1.16,
+    "yield_per_sqm": 5.48,
+    "market_price_per_kg": 3.09,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.37
+  },
+  "spicy yukon tomato": {
+    "seed_cost_multiplier": 2.09,
+    "yield_per_sqm": 3.74,
+    "market_price_per_kg": 4.92,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.72
+  },
+  "alpine roma tomato": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 5.87,
+    "market_price_per_kg": 2.92,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.47
+  },
+  "summer butterhead tomato": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 4.63,
+    "market_price_per_kg": 0.89,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.41
+  },
+  "lettuce": {
+    "seed_cost_multiplier": 0.9,
+    "yield_per_sqm": 5.09,
+    "market_price_per_kg": 1.14,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.72
+  },
+  "tender butterhead lettuce": {
+    "seed_cost_multiplier": 1.04,
+    "yield_per_sqm": 3.32,
+    "market_price_per_kg": 3.08,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.9
+  },
+  "summer white lettuce": {
+    "seed_cost_multiplier": 1.02,
+    "yield_per_sqm": 4.22,
+    "market_price_per_kg": 5.0,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.94
+  },
+  "dwarf round lettuce": {
+    "seed_cost_multiplier": 1.49,
+    "yield_per_sqm": 2.93,
+    "market_price_per_kg": 2.23,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.47
+  },
+  "heirloom round lettuce": {
+    "seed_cost_multiplier": 1.55,
+    "yield_per_sqm": 3.08,
+    "market_price_per_kg": 4.83,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.03
+  },
+  "sunrise yellow lettuce": {
+    "seed_cost_multiplier": 1.73,
+    "yield_per_sqm": 1.15,
+    "market_price_per_kg": 0.53,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.72
+  },
+  "early short lettuce": {
+    "seed_cost_multiplier": 0.72,
+    "yield_per_sqm": 4.48,
+    "market_price_per_kg": 2.1,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.85
+  },
+  "hybrid globe lettuce": {
+    "seed_cost_multiplier": 1.35,
+    "yield_per_sqm": 5.54,
+    "market_price_per_kg": 3.1,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.43
+  },
+  "summer globe lettuce": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 4.07,
+    "market_price_per_kg": 0.89,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.94
+  },
+  "giant bell lettuce": {
+    "seed_cost_multiplier": 1.34,
+    "yield_per_sqm": 3.88,
+    "market_price_per_kg": 3.91,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.08
+  },
+  "carrot": {
+    "seed_cost_multiplier": 0.7,
+    "yield_per_sqm": 4.48,
+    "market_price_per_kg": 3.04,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.04
+  },
+  "late white carrot": {
+    "seed_cost_multiplier": 0.99,
+    "yield_per_sqm": 1.09,
+    "market_price_per_kg": 4.87,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.12
+  },
+  "giant nantes carrot": {
+    "seed_cost_multiplier": 2.45,
+    "yield_per_sqm": 1.84,
+    "market_price_per_kg": 1.43,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.27
+  },
+  "tender iceberg carrot": {
+    "seed_cost_multiplier": 0.57,
+    "yield_per_sqm": 0.58,
+    "market_price_per_kg": 4.46,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.32
+  },
+  "golden butterhead carrot": {
+    "seed_cost_multiplier": 0.72,
+    "yield_per_sqm": 1.26,
+    "market_price_per_kg": 0.61,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.11
+  },
+  "golden romaine carrot": {
+    "seed_cost_multiplier": 0.63,
+    "yield_per_sqm": 1.03,
+    "market_price_per_kg": 0.57,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.94
+  },
+  "urban cherry carrot": {
+    "seed_cost_multiplier": 2.41,
+    "yield_per_sqm": 4.37,
+    "market_price_per_kg": 0.79,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.44
+  },
+  "sweet imperator carrot": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 5.76,
+    "market_price_per_kg": 2.33,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.13
+  },
+  "tender roma carrot": {
+    "seed_cost_multiplier": 1.79,
+    "yield_per_sqm": 4.2,
+    "market_price_per_kg": 0.67,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.45
+  },
+  "spicy russet carrot": {
+    "seed_cost_multiplier": 1.34,
+    "yield_per_sqm": 1.22,
+    "market_price_per_kg": 4.03,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.74
+  },
+  "spinach": {
+    "seed_cost_multiplier": 0.87,
+    "yield_per_sqm": 4.96,
+    "market_price_per_kg": 2.32,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.81
+  },
+  "valley habanero spinach": {
+    "seed_cost_multiplier": 2.23,
+    "yield_per_sqm": 0.91,
+    "market_price_per_kg": 3.06,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.49
+  },
+  "crisp baby spinach": {
+    "seed_cost_multiplier": 2.39,
+    "yield_per_sqm": 4.1,
+    "market_price_per_kg": 1.55,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.44
+  },
+  "tender short spinach": {
+    "seed_cost_multiplier": 0.78,
+    "yield_per_sqm": 1.24,
+    "market_price_per_kg": 5.0,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.85
+  },
+  "hybrid romaine spinach": {
+    "seed_cost_multiplier": 0.77,
+    "yield_per_sqm": 4.84,
+    "market_price_per_kg": 0.91,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.82
+  },
+  "sweet long spinach": {
+    "seed_cost_multiplier": 1.49,
+    "yield_per_sqm": 2.28,
+    "market_price_per_kg": 4.92,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.24
+  },
+  "organic jalapeno spinach": {
+    "seed_cost_multiplier": 2.49,
+    "yield_per_sqm": 4.06,
+    "market_price_per_kg": 1.7,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.97
+  },
+  "spicy nantes spinach": {
+    "seed_cost_multiplier": 1.97,
+    "yield_per_sqm": 2.29,
+    "market_price_per_kg": 4.29,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.05
+  },
+  "hybrid habanero spinach": {
+    "seed_cost_multiplier": 0.72,
+    "yield_per_sqm": 3.88,
+    "market_price_per_kg": 3.29,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.77
+  },
+  "alpine jalapeno spinach": {
+    "seed_cost_multiplier": 0.51,
+    "yield_per_sqm": 0.9,
+    "market_price_per_kg": 3.83,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.34
+  },
+  "pepper": {
+    "seed_cost_multiplier": 0.51,
+    "yield_per_sqm": 2.31,
+    "market_price_per_kg": 2.42,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.28
+  },
+  "heirloom yellow pepper": {
+    "seed_cost_multiplier": 0.72,
+    "yield_per_sqm": 5.14,
+    "market_price_per_kg": 2.69,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.16
+  },
+  "golden russet pepper": {
+    "seed_cost_multiplier": 1.89,
+    "yield_per_sqm": 4.87,
+    "market_price_per_kg": 1.4,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.36
+  },
+  "valley sweet pepper": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 1.19,
+    "market_price_per_kg": 4.26,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.17
+  },
+  "early savoy pepper": {
+    "seed_cost_multiplier": 1.32,
+    "yield_per_sqm": 3.15,
+    "market_price_per_kg": 3.45,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.98
+  },
+  "late roma pepper": {
+    "seed_cost_multiplier": 1.45,
+    "yield_per_sqm": 3.02,
+    "market_price_per_kg": 3.11,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.26
+  },
+  "winter imperator pepper": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 3.98,
+    "market_price_per_kg": 4.92,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.18
+  },
+  "late short pepper": {
+    "seed_cost_multiplier": 0.96,
+    "yield_per_sqm": 1.04,
+    "market_price_per_kg": 4.61,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.4
+  },
+  "desert sweet pepper": {
+    "seed_cost_multiplier": 2.48,
+    "yield_per_sqm": 1.81,
+    "market_price_per_kg": 2.61,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.93
+  },
+  "wild baby pepper": {
+    "seed_cost_multiplier": 2.42,
+    "yield_per_sqm": 4.49,
+    "market_price_per_kg": 2.47,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.84
+  },
+  "potato": {
+    "seed_cost_multiplier": 2.21,
+    "yield_per_sqm": 0.56,
+    "market_price_per_kg": 3.07,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.26
+  },
+  "coastal habanero potato": {
+    "seed_cost_multiplier": 2.16,
+    "yield_per_sqm": 3.8,
+    "market_price_per_kg": 3.23,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.06
+  },
+  "late red potato": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 2.85,
+    "market_price_per_kg": 1.59,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.85
+  },
+  "giant cherry potato": {
+    "seed_cost_multiplier": 1.19,
+    "yield_per_sqm": 3.57,
+    "market_price_per_kg": 1.97,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.81
+  },
+  "desert yukon potato": {
+    "seed_cost_multiplier": 0.87,
+    "yield_per_sqm": 5.37,
+    "market_price_per_kg": 2.17,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.05
+  },
+  "coastal short potato": {
+    "seed_cost_multiplier": 2.14,
+    "yield_per_sqm": 4.83,
+    "market_price_per_kg": 4.82,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.05
+  },
+  "sweet butterhead potato": {
+    "seed_cost_multiplier": 1.71,
+    "yield_per_sqm": 3.89,
+    "market_price_per_kg": 2.93,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.36
+  },
+  "sweet jalapeno potato": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 1.37,
+    "market_price_per_kg": 2.17,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.15
+  },
+  "sweet yukon potato": {
+    "seed_cost_multiplier": 2.12,
+    "yield_per_sqm": 1.51,
+    "market_price_per_kg": 1.23,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.72
+  },
+  "alpine savoy potato": {
+    "seed_cost_multiplier": 0.66,
+    "yield_per_sqm": 2.36,
+    "market_price_per_kg": 3.07,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.95
+  },
+  "onion": {
+    "seed_cost_multiplier": 0.58,
+    "yield_per_sqm": 2.7,
+    "market_price_per_kg": 4.34,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.89
+  },
+  "valley cherry onion": {
+    "seed_cost_multiplier": 1.16,
+    "yield_per_sqm": 1.44,
+    "market_price_per_kg": 4.23,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.27
+  },
+  "crimson danvers onion": {
+    "seed_cost_multiplier": 0.65,
+    "yield_per_sqm": 4.65,
+    "market_price_per_kg": 2.29,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.02
+  },
+  "urban romaine onion": {
+    "seed_cost_multiplier": 2.02,
+    "yield_per_sqm": 1.8,
+    "market_price_per_kg": 4.08,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.2
+  },
+  "sunrise habanero onion": {
+    "seed_cost_multiplier": 2.27,
+    "yield_per_sqm": 2.22,
+    "market_price_per_kg": 4.1,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.86
+  },
+  "urban yellow onion": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 5.47,
+    "market_price_per_kg": 4.03,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.87
+  },
+  "midnight habanero onion": {
+    "seed_cost_multiplier": 2.14,
+    "yield_per_sqm": 4.6,
+    "market_price_per_kg": 4.5,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.19
+  },
+  "late nantes onion": {
+    "seed_cost_multiplier": 2.21,
+    "yield_per_sqm": 4.52,
+    "market_price_per_kg": 2.17,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.78
+  },
+  "early cherry onion": {
+    "seed_cost_multiplier": 0.84,
+    "yield_per_sqm": 3.99,
+    "market_price_per_kg": 1.86,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.71
+  },
+  "tender long onion": {
+    "seed_cost_multiplier": 1.46,
+    "yield_per_sqm": 3.95,
+    "market_price_per_kg": 1.84,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.9
+  },
+  "rice": {
+    "seed_cost_multiplier": 1.91,
+    "yield_per_sqm": 0.61,
+    "market_price_per_kg": 2.13,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.86
+  },
+  "sweet danvers rice": {
+    "seed_cost_multiplier": 0.94,
+    "yield_per_sqm": 3.6,
+    "market_price_per_kg": 3.64,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.82
+  },
+  "valley butterhead rice": {
+    "seed_cost_multiplier": 0.7,
+    "yield_per_sqm": 1.22,
+    "market_price_per_kg": 0.92,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.34
+  },
+  "coastal bell rice": {
+    "seed_cost_multiplier": 0.77,
+    "yield_per_sqm": 3.69,
+    "market_price_per_kg": 1.84,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.18
+  },
+  "royal roma rice": {
+    "seed_cost_multiplier": 1.25,
+    "yield_per_sqm": 2.36,
+    "market_price_per_kg": 3.23,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.36
+  },
+  "tender savoy rice": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 1.84,
+    "market_price_per_kg": 0.55,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.49
+  },
+  "spicy nantes rice": {
+    "seed_cost_multiplier": 0.68,
+    "yield_per_sqm": 3.81,
+    "market_price_per_kg": 1.16,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.48
+  },
+  "dwarf cherry rice": {
+    "seed_cost_multiplier": 1.07,
+    "yield_per_sqm": 4.16,
+    "market_price_per_kg": 3.82,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.8
+  },
+  "wild yukon rice": {
+    "seed_cost_multiplier": 1.94,
+    "yield_per_sqm": 5.36,
+    "market_price_per_kg": 3.38,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.8
+  },
+  "late yellow rice": {
+    "seed_cost_multiplier": 1.46,
+    "yield_per_sqm": 5.46,
+    "market_price_per_kg": 0.98,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.46
+  },
+  "wheat": {
+    "seed_cost_multiplier": 2.23,
+    "yield_per_sqm": 5.18,
+    "market_price_per_kg": 2.67,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.47
+  },
+  "sunrise long wheat": {
+    "seed_cost_multiplier": 0.52,
+    "yield_per_sqm": 2.51,
+    "market_price_per_kg": 4.6,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.97
+  },
+  "golden butterhead wheat": {
+    "seed_cost_multiplier": 0.99,
+    "yield_per_sqm": 3.55,
+    "market_price_per_kg": 4.5,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.71
+  },
+  "sunrise cherry wheat": {
+    "seed_cost_multiplier": 1.31,
+    "yield_per_sqm": 3.05,
+    "market_price_per_kg": 2.9,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.23
+  },
+  "valley imperator wheat": {
+    "seed_cost_multiplier": 1.22,
+    "yield_per_sqm": 5.36,
+    "market_price_per_kg": 1.39,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.93
+  },
+  "midnight roma wheat": {
+    "seed_cost_multiplier": 1.63,
+    "yield_per_sqm": 3.32,
+    "market_price_per_kg": 3.28,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.21
+  },
+  "royal baby wheat": {
+    "seed_cost_multiplier": 1.25,
+    "yield_per_sqm": 4.14,
+    "market_price_per_kg": 4.51,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.34
+  },
+  "giant imperator wheat": {
+    "seed_cost_multiplier": 1.66,
+    "yield_per_sqm": 5.79,
+    "market_price_per_kg": 4.65,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.21
+  },
+  "early danvers wheat": {
+    "seed_cost_multiplier": 0.77,
+    "yield_per_sqm": 2.6,
+    "market_price_per_kg": 3.26,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.41
+  },
+  "early bell wheat": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 5.27,
+    "market_price_per_kg": 1.13,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.05
+  },
+  "maize": {
+    "seed_cost_multiplier": 0.52,
+    "yield_per_sqm": 1.1,
+    "market_price_per_kg": 3.6,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.44
+  },
+  "urban white maize": {
+    "seed_cost_multiplier": 0.54,
+    "yield_per_sqm": 5.01,
+    "market_price_per_kg": 1.45,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.02
+  },
+  "sweet roma maize": {
+    "seed_cost_multiplier": 0.77,
+    "yield_per_sqm": 3.37,
+    "market_price_per_kg": 1.84,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.76
+  },
+  "late imperator maize": {
+    "seed_cost_multiplier": 1.27,
+    "yield_per_sqm": 2.73,
+    "market_price_per_kg": 4.87,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.99
+  },
+  "royal short maize": {
+    "seed_cost_multiplier": 1.23,
+    "yield_per_sqm": 3.87,
+    "market_price_per_kg": 4.64,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.73
+  },
+  "summer round maize": {
+    "seed_cost_multiplier": 1.3,
+    "yield_per_sqm": 3.43,
+    "market_price_per_kg": 2.52,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.99
+  },
+  "emerald short maize": {
+    "seed_cost_multiplier": 1.38,
+    "yield_per_sqm": 0.95,
+    "market_price_per_kg": 1.56,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.12
+  },
+  "urban imperator maize": {
+    "seed_cost_multiplier": 0.6,
+    "yield_per_sqm": 5.77,
+    "market_price_per_kg": 2.52,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.73
+  },
+  "wild butterhead maize": {
+    "seed_cost_multiplier": 1.24,
+    "yield_per_sqm": 1.72,
+    "market_price_per_kg": 4.62,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.33
+  },
+  "crimson jalapeno maize": {
+    "seed_cost_multiplier": 1.92,
+    "yield_per_sqm": 5.94,
+    "market_price_per_kg": 0.75,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.98
+  },
+  "cucumber": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 4.83,
+    "market_price_per_kg": 1.88,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.34
+  },
+  "late globe cucumber": {
+    "seed_cost_multiplier": 1.83,
+    "yield_per_sqm": 1.7,
+    "market_price_per_kg": 1.98,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.26
+  },
+  "valley red cucumber": {
+    "seed_cost_multiplier": 1.93,
+    "yield_per_sqm": 3.64,
+    "market_price_per_kg": 4.52,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.75
+  },
+  "tender habanero cucumber": {
+    "seed_cost_multiplier": 0.56,
+    "yield_per_sqm": 2.82,
+    "market_price_per_kg": 1.79,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.87
+  },
+  "summer jalapeno cucumber": {
+    "seed_cost_multiplier": 1.82,
+    "yield_per_sqm": 2.9,
+    "market_price_per_kg": 0.99,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.08
+  },
+  "dwarf bell cucumber": {
+    "seed_cost_multiplier": 2.38,
+    "yield_per_sqm": 0.85,
+    "market_price_per_kg": 2.8,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.82
+  },
+  "spicy iceberg cucumber": {
+    "seed_cost_multiplier": 0.79,
+    "yield_per_sqm": 4.13,
+    "market_price_per_kg": 3.5,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.97
+  },
+  "midnight russet cucumber": {
+    "seed_cost_multiplier": 1.29,
+    "yield_per_sqm": 0.7,
+    "market_price_per_kg": 4.46,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.94
+  },
+  "crimson imperator cucumber": {
+    "seed_cost_multiplier": 1.03,
+    "yield_per_sqm": 3.06,
+    "market_price_per_kg": 2.82,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.44
+  },
+  "midnight sweet cucumber": {
+    "seed_cost_multiplier": 1.87,
+    "yield_per_sqm": 4.42,
+    "market_price_per_kg": 3.17,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.01
+  },
+  "eggplant": {
+    "seed_cost_multiplier": 1.82,
+    "yield_per_sqm": 5.08,
+    "market_price_per_kg": 2.38,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.29
+  },
+  "golden danvers eggplant": {
+    "seed_cost_multiplier": 2.17,
+    "yield_per_sqm": 3.68,
+    "market_price_per_kg": 1.1,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.94
+  },
+  "spicy bell eggplant": {
+    "seed_cost_multiplier": 2.11,
+    "yield_per_sqm": 4.47,
+    "market_price_per_kg": 4.81,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.85
+  },
+  "crisp red eggplant": {
+    "seed_cost_multiplier": 2.31,
+    "yield_per_sqm": 3.15,
+    "market_price_per_kg": 1.19,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.06
+  },
+  "winter bell eggplant": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 5.04,
+    "market_price_per_kg": 0.82,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.24
+  },
+  "wild globe eggplant": {
+    "seed_cost_multiplier": 1.08,
+    "yield_per_sqm": 4.23,
+    "market_price_per_kg": 3.34,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.89
+  },
+  "coastal sweet eggplant": {
+    "seed_cost_multiplier": 2.46,
+    "yield_per_sqm": 3.49,
+    "market_price_per_kg": 3.27,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.08
+  },
+  "summer jalapeno eggplant": {
+    "seed_cost_multiplier": 1.95,
+    "yield_per_sqm": 3.95,
+    "market_price_per_kg": 1.6,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.37
+  },
+  "royal baby eggplant": {
+    "seed_cost_multiplier": 1.18,
+    "yield_per_sqm": 4.6,
+    "market_price_per_kg": 2.06,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.09
+  },
+  "urban savoy eggplant": {
+    "seed_cost_multiplier": 0.85,
+    "yield_per_sqm": 3.16,
+    "market_price_per_kg": 2.05,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.02
+  },
+  "cabbage": {
+    "seed_cost_multiplier": 0.87,
+    "yield_per_sqm": 2.71,
+    "market_price_per_kg": 1.12,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.32
+  },
+  "late cherry cabbage": {
+    "seed_cost_multiplier": 1.88,
+    "yield_per_sqm": 4.31,
+    "market_price_per_kg": 2.29,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.43
+  },
+  "crimson bell cabbage": {
+    "seed_cost_multiplier": 2.23,
+    "yield_per_sqm": 2.57,
+    "market_price_per_kg": 0.52,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.01
+  },
+  "winter romaine cabbage": {
+    "seed_cost_multiplier": 2.35,
+    "yield_per_sqm": 0.97,
+    "market_price_per_kg": 1.61,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.43
+  },
+  "early danvers cabbage": {
+    "seed_cost_multiplier": 1.11,
+    "yield_per_sqm": 2.99,
+    "market_price_per_kg": 3.16,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.47
+  },
+  "wild cherry cabbage": {
+    "seed_cost_multiplier": 0.62,
+    "yield_per_sqm": 1.69,
+    "market_price_per_kg": 3.61,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.22
+  },
+  "valley russet cabbage": {
+    "seed_cost_multiplier": 1.76,
+    "yield_per_sqm": 1.01,
+    "market_price_per_kg": 4.7,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.86
+  },
+  "organic russet cabbage": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 4.51,
+    "market_price_per_kg": 4.47,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.89
+  },
+  "royal white cabbage": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 4.43,
+    "market_price_per_kg": 4.54,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.41
+  },
+  "heirloom short cabbage": {
+    "seed_cost_multiplier": 1.14,
+    "yield_per_sqm": 2.98,
+    "market_price_per_kg": 1.75,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.18
+  },
+  "broccoli": {
+    "seed_cost_multiplier": 0.89,
+    "yield_per_sqm": 3.43,
+    "market_price_per_kg": 1.64,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.24
+  },
+  "wild nantes broccoli": {
+    "seed_cost_multiplier": 1.86,
+    "yield_per_sqm": 4.69,
+    "market_price_per_kg": 2.57,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.77
+  },
+  "giant roma broccoli": {
+    "seed_cost_multiplier": 0.94,
+    "yield_per_sqm": 2.22,
+    "market_price_per_kg": 4.44,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.28
+  },
+  "emerald roma broccoli": {
+    "seed_cost_multiplier": 1.25,
+    "yield_per_sqm": 1.38,
+    "market_price_per_kg": 3.07,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.08
+  },
+  "spicy long broccoli": {
+    "seed_cost_multiplier": 1.72,
+    "yield_per_sqm": 1.44,
+    "market_price_per_kg": 1.92,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.08
+  },
+  "royal yellow broccoli": {
+    "seed_cost_multiplier": 0.96,
+    "yield_per_sqm": 4.0,
+    "market_price_per_kg": 3.76,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.83
+  },
+  "alpine russet broccoli": {
+    "seed_cost_multiplier": 1.77,
+    "yield_per_sqm": 0.88,
+    "market_price_per_kg": 1.38,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.15
+  },
+  "wild long broccoli": {
+    "seed_cost_multiplier": 0.76,
+    "yield_per_sqm": 2.69,
+    "market_price_per_kg": 1.03,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.28
+  },
+  "golden globe broccoli": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 5.82,
+    "market_price_per_kg": 4.51,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.93
+  },
+  "golden bell broccoli": {
+    "seed_cost_multiplier": 1.39,
+    "yield_per_sqm": 5.61,
+    "market_price_per_kg": 1.72,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.24
+  },
+  "garlic": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 5.42,
+    "market_price_per_kg": 3.84,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.31
+  },
+  "sweet white garlic": {
+    "seed_cost_multiplier": 2.22,
+    "yield_per_sqm": 5.76,
+    "market_price_per_kg": 4.15,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.05
+  },
+  "giant imperator garlic": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 4.87,
+    "market_price_per_kg": 3.43,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.31
+  },
+  "valley iceberg garlic": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 1.47,
+    "market_price_per_kg": 2.14,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.91
+  },
+  "midnight yukon garlic": {
+    "seed_cost_multiplier": 1.27,
+    "yield_per_sqm": 5.56,
+    "market_price_per_kg": 2.98,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.09
+  },
+  "crisp savoy garlic": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 5.44,
+    "market_price_per_kg": 4.16,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.05
+  },
+  "desert imperator garlic": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 3.62,
+    "market_price_per_kg": 4.43,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.32
+  },
+  "desert round garlic": {
+    "seed_cost_multiplier": 1.43,
+    "yield_per_sqm": 4.08,
+    "market_price_per_kg": 1.03,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.08
+  },
+  "midnight long garlic": {
+    "seed_cost_multiplier": 1.88,
+    "yield_per_sqm": 3.2,
+    "market_price_per_kg": 1.16,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.43
+  },
+  "valley cherry garlic": {
+    "seed_cost_multiplier": 0.83,
+    "yield_per_sqm": 4.4,
+    "market_price_per_kg": 2.6,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.37
+  },
+  "strawberry": {
+    "seed_cost_multiplier": 1.76,
+    "yield_per_sqm": 5.28,
+    "market_price_per_kg": 0.68,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.02
+  },
+  "organic imperator strawberry": {
+    "seed_cost_multiplier": 1.78,
+    "yield_per_sqm": 3.79,
+    "market_price_per_kg": 3.84,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.37
+  },
+  "giant yellow strawberry": {
+    "seed_cost_multiplier": 0.85,
+    "yield_per_sqm": 5.65,
+    "market_price_per_kg": 3.97,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.78
+  },
+  "golden yellow strawberry": {
+    "seed_cost_multiplier": 2.09,
+    "yield_per_sqm": 1.69,
+    "market_price_per_kg": 3.55,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.81
+  },
+  "summer yukon strawberry": {
+    "seed_cost_multiplier": 0.65,
+    "yield_per_sqm": 4.48,
+    "market_price_per_kg": 2.96,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.36
+  },
+  "emerald short strawberry": {
+    "seed_cost_multiplier": 1.91,
+    "yield_per_sqm": 5.84,
+    "market_price_per_kg": 4.01,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.8
+  },
+  "wild baby strawberry": {
+    "seed_cost_multiplier": 2.45,
+    "yield_per_sqm": 1.54,
+    "market_price_per_kg": 1.94,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.72
+  },
+  "winter beefsteak strawberry": {
+    "seed_cost_multiplier": 1.14,
+    "yield_per_sqm": 2.13,
+    "market_price_per_kg": 4.51,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.91
+  },
+  "royal roma strawberry": {
+    "seed_cost_multiplier": 1.49,
+    "yield_per_sqm": 1.55,
+    "market_price_per_kg": 1.58,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.05
+  },
+  "dwarf romaine strawberry": {
+    "seed_cost_multiplier": 2.23,
+    "yield_per_sqm": 1.3,
+    "market_price_per_kg": 3.8,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.38
+  },
+  "melon": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 2.8,
+    "market_price_per_kg": 4.44,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.16
+  },
+  "dwarf yukon melon": {
+    "seed_cost_multiplier": 2.47,
+    "yield_per_sqm": 3.87,
+    "market_price_per_kg": 4.04,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.02
+  },
+  "giant short melon": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 3.07,
+    "market_price_per_kg": 2.24,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.04
+  },
+  "coastal romaine melon": {
+    "seed_cost_multiplier": 1.0,
+    "yield_per_sqm": 2.28,
+    "market_price_per_kg": 4.74,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.81
+  },
+  "crisp yukon melon": {
+    "seed_cost_multiplier": 0.69,
+    "yield_per_sqm": 5.45,
+    "market_price_per_kg": 1.87,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.17
+  },
+  "desert yellow melon": {
+    "seed_cost_multiplier": 2.19,
+    "yield_per_sqm": 3.96,
+    "market_price_per_kg": 0.95,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.88
+  },
+  "emerald short melon": {
+    "seed_cost_multiplier": 1.91,
+    "yield_per_sqm": 3.71,
+    "market_price_per_kg": 3.93,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.76
+  },
+  "winter short melon": {
+    "seed_cost_multiplier": 2.42,
+    "yield_per_sqm": 4.72,
+    "market_price_per_kg": 3.81,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.47
+  },
+  "golden butterhead melon": {
+    "seed_cost_multiplier": 1.58,
+    "yield_per_sqm": 3.41,
+    "market_price_per_kg": 3.11,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.75
+  },
+  "winter beefsteak melon": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 5.27,
+    "market_price_per_kg": 0.98,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.43
+  },
+  "pumpkin": {
+    "seed_cost_multiplier": 1.4,
+    "yield_per_sqm": 1.41,
+    "market_price_per_kg": 0.87,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.24
+  },
+  "late russet pumpkin": {
+    "seed_cost_multiplier": 2.03,
+    "yield_per_sqm": 2.43,
+    "market_price_per_kg": 2.94,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.35
+  },
+  "midnight roma pumpkin": {
+    "seed_cost_multiplier": 0.59,
+    "yield_per_sqm": 4.68,
+    "market_price_per_kg": 4.06,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.47
+  },
+  "coastal beefsteak pumpkin": {
+    "seed_cost_multiplier": 2.31,
+    "yield_per_sqm": 2.54,
+    "market_price_per_kg": 4.43,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.25
+  },
+  "hybrid globe pumpkin": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 0.76,
+    "market_price_per_kg": 1.31,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.78
+  },
+  "urban savoy pumpkin": {
+    "seed_cost_multiplier": 1.13,
+    "yield_per_sqm": 5.45,
+    "market_price_per_kg": 0.78,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.15
+  },
+  "golden danvers pumpkin": {
+    "seed_cost_multiplier": 1.43,
+    "yield_per_sqm": 4.33,
+    "market_price_per_kg": 3.54,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.4
+  },
+  "organic jalapeno pumpkin": {
+    "seed_cost_multiplier": 1.08,
+    "yield_per_sqm": 5.49,
+    "market_price_per_kg": 4.96,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.32
+  },
+  "organic white pumpkin": {
+    "seed_cost_multiplier": 0.68,
+    "yield_per_sqm": 5.49,
+    "market_price_per_kg": 2.64,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.88
+  },
+  "valley danvers pumpkin": {
+    "seed_cost_multiplier": 2.49,
+    "yield_per_sqm": 2.47,
+    "market_price_per_kg": 3.05,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.33
+  },
+  "zucchini": {
+    "seed_cost_multiplier": 1.3,
+    "yield_per_sqm": 4.85,
+    "market_price_per_kg": 2.15,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.71
+  },
+  "desert imperator zucchini": {
+    "seed_cost_multiplier": 1.25,
+    "yield_per_sqm": 1.48,
+    "market_price_per_kg": 0.88,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.01
+  },
+  "dwarf red zucchini": {
+    "seed_cost_multiplier": 1.73,
+    "yield_per_sqm": 5.13,
+    "market_price_per_kg": 3.47,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.71
+  },
+  "golden iceberg zucchini": {
+    "seed_cost_multiplier": 1.42,
+    "yield_per_sqm": 2.71,
+    "market_price_per_kg": 4.15,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.99
+  },
+  "alpine roma zucchini": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 2.39,
+    "market_price_per_kg": 0.6,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.45
+  },
+  "winter jalapeno zucchini": {
+    "seed_cost_multiplier": 2.34,
+    "yield_per_sqm": 5.99,
+    "market_price_per_kg": 2.44,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.87
+  },
+  "crisp globe zucchini": {
+    "seed_cost_multiplier": 2.24,
+    "yield_per_sqm": 5.25,
+    "market_price_per_kg": 4.43,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.76
+  },
+  "early beefsteak zucchini": {
+    "seed_cost_multiplier": 1.65,
+    "yield_per_sqm": 2.51,
+    "market_price_per_kg": 3.98,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.14
+  },
+  "hybrid short zucchini": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 2.27,
+    "market_price_per_kg": 3.92,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.71
+  },
+  "desert danvers zucchini": {
+    "seed_cost_multiplier": 2.45,
+    "yield_per_sqm": 4.56,
+    "market_price_per_kg": 2.94,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.84
+  },
+  "beans": {
+    "seed_cost_multiplier": 0.81,
+    "yield_per_sqm": 1.93,
+    "market_price_per_kg": 1.42,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.11
+  },
+  "winter habanero beans": {
+    "seed_cost_multiplier": 2.48,
+    "yield_per_sqm": 5.79,
+    "market_price_per_kg": 1.83,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.03
+  },
+  "urban iceberg beans": {
+    "seed_cost_multiplier": 1.75,
+    "yield_per_sqm": 5.67,
+    "market_price_per_kg": 4.68,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.93
+  },
+  "sweet jalapeno beans": {
+    "seed_cost_multiplier": 0.78,
+    "yield_per_sqm": 1.67,
+    "market_price_per_kg": 4.69,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.25
+  },
+  "royal round beans": {
+    "seed_cost_multiplier": 2.02,
+    "yield_per_sqm": 3.58,
+    "market_price_per_kg": 2.98,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.75
+  },
+  "spicy butterhead beans": {
+    "seed_cost_multiplier": 1.43,
+    "yield_per_sqm": 0.76,
+    "market_price_per_kg": 0.62,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.25
+  },
+  "midnight jalapeno beans": {
+    "seed_cost_multiplier": 1.55,
+    "yield_per_sqm": 0.63,
+    "market_price_per_kg": 3.14,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.42
+  },
+  "royal sweet beans": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 3.79,
+    "market_price_per_kg": 1.03,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.33
+  },
+  "winter long beans": {
+    "seed_cost_multiplier": 2.26,
+    "yield_per_sqm": 4.26,
+    "market_price_per_kg": 2.29,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.43
+  },
+  "golden russet beans": {
+    "seed_cost_multiplier": 0.71,
+    "yield_per_sqm": 1.81,
+    "market_price_per_kg": 3.62,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.93
+  },
+  "apple": {
+    "seed_cost_multiplier": 0.58,
+    "yield_per_sqm": 2.89,
+    "market_price_per_kg": 4.03,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.87
+  },
+  "spicy nantes apple": {
+    "seed_cost_multiplier": 0.64,
+    "yield_per_sqm": 3.49,
+    "market_price_per_kg": 2.44,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.49
+  },
+  "summer jalapeno apple": {
+    "seed_cost_multiplier": 0.51,
+    "yield_per_sqm": 1.93,
+    "market_price_per_kg": 2.89,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.44
+  },
+  "tender round apple": {
+    "seed_cost_multiplier": 1.11,
+    "yield_per_sqm": 5.23,
+    "market_price_per_kg": 2.96,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.14
+  },
+  "hybrid butterhead apple": {
+    "seed_cost_multiplier": 1.24,
+    "yield_per_sqm": 0.9,
+    "market_price_per_kg": 4.68,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.92
+  },
+  "golden cherry apple": {
+    "seed_cost_multiplier": 0.89,
+    "yield_per_sqm": 3.14,
+    "market_price_per_kg": 4.13,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.08
+  },
+  "giant russet apple": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 3.95,
+    "market_price_per_kg": 3.93,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.98
+  },
+  "sweet long apple": {
+    "seed_cost_multiplier": 1.62,
+    "yield_per_sqm": 4.33,
+    "market_price_per_kg": 3.74,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.82
+  },
+  "heirloom cherry apple": {
+    "seed_cost_multiplier": 1.92,
+    "yield_per_sqm": 4.04,
+    "market_price_per_kg": 1.34,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.08
+  },
+  "early savoy apple": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 1.95,
+    "market_price_per_kg": 4.89,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.5
+  },
+  "almond": {
+    "seed_cost_multiplier": 2.39,
+    "yield_per_sqm": 1.81,
+    "market_price_per_kg": 4.46,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.82
+  },
+  "royal round almond": {
+    "seed_cost_multiplier": 0.66,
+    "yield_per_sqm": 2.99,
+    "market_price_per_kg": 2.93,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.15
+  },
+  "spicy baby almond": {
+    "seed_cost_multiplier": 1.23,
+    "yield_per_sqm": 4.53,
+    "market_price_per_kg": 3.63,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.0
+  },
+  "royal russet almond": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 3.47,
+    "market_price_per_kg": 3.86,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.98
+  },
+  "emerald bell almond": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 1.87,
+    "market_price_per_kg": 3.6,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.22
+  },
+  "midnight roma almond": {
+    "seed_cost_multiplier": 1.56,
+    "yield_per_sqm": 4.07,
+    "market_price_per_kg": 4.79,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.75
+  },
+  "dwarf habanero almond": {
+    "seed_cost_multiplier": 1.46,
+    "yield_per_sqm": 1.23,
+    "market_price_per_kg": 2.7,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.72
+  },
+  "crisp baby almond": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 3.78,
+    "market_price_per_kg": 4.87,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.03
+  },
+  "tender iceberg almond": {
+    "seed_cost_multiplier": 1.03,
+    "yield_per_sqm": 1.58,
+    "market_price_per_kg": 4.82,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.84
+  },
+  "giant sweet almond": {
+    "seed_cost_multiplier": 2.21,
+    "yield_per_sqm": 3.16,
+    "market_price_per_kg": 1.86,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.88
+  },
+  "apricot": {
+    "seed_cost_multiplier": 1.99,
+    "yield_per_sqm": 0.59,
+    "market_price_per_kg": 1.42,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.15
+  },
+  "alpine danvers apricot": {
+    "seed_cost_multiplier": 0.79,
+    "yield_per_sqm": 5.17,
+    "market_price_per_kg": 4.25,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.81
+  },
+  "winter russet apricot": {
+    "seed_cost_multiplier": 0.9,
+    "yield_per_sqm": 2.88,
+    "market_price_per_kg": 4.96,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.72
+  },
+  "dwarf yukon apricot": {
+    "seed_cost_multiplier": 2.36,
+    "yield_per_sqm": 4.48,
+    "market_price_per_kg": 4.75,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.2
+  },
+  "coastal roma apricot": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 5.59,
+    "market_price_per_kg": 2.98,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.72
+  },
+  "royal romaine apricot": {
+    "seed_cost_multiplier": 2.05,
+    "yield_per_sqm": 3.56,
+    "market_price_per_kg": 2.93,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.37
+  },
+  "hybrid sweet apricot": {
+    "seed_cost_multiplier": 1.75,
+    "yield_per_sqm": 1.92,
+    "market_price_per_kg": 4.4,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.83
+  },
+  "emerald globe apricot": {
+    "seed_cost_multiplier": 1.09,
+    "yield_per_sqm": 2.14,
+    "market_price_per_kg": 0.66,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.3
+  },
+  "sweet russet apricot": {
+    "seed_cost_multiplier": 1.24,
+    "yield_per_sqm": 3.51,
+    "market_price_per_kg": 3.23,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.97
+  },
+  "valley nantes apricot": {
+    "seed_cost_multiplier": 1.09,
+    "yield_per_sqm": 0.5,
+    "market_price_per_kg": 3.37,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.85
+  },
+  "asparagus": {
+    "seed_cost_multiplier": 1.2,
+    "yield_per_sqm": 2.93,
+    "market_price_per_kg": 2.09,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.23
+  },
+  "organic yellow asparagus": {
+    "seed_cost_multiplier": 2.0,
+    "yield_per_sqm": 4.72,
+    "market_price_per_kg": 1.11,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.74
+  },
+  "sunrise yukon asparagus": {
+    "seed_cost_multiplier": 2.09,
+    "yield_per_sqm": 3.17,
+    "market_price_per_kg": 2.27,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.76
+  },
+  "tender long asparagus": {
+    "seed_cost_multiplier": 1.14,
+    "yield_per_sqm": 1.24,
+    "market_price_per_kg": 2.75,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.08
+  },
+  "urban russet asparagus": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 3.18,
+    "market_price_per_kg": 4.98,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.03
+  },
+  "giant cherry asparagus": {
+    "seed_cost_multiplier": 1.26,
+    "yield_per_sqm": 0.62,
+    "market_price_per_kg": 3.7,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.45
+  },
+  "crimson jalapeno asparagus": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 5.51,
+    "market_price_per_kg": 0.6,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.13
+  },
+  "sweet habanero asparagus": {
+    "seed_cost_multiplier": 0.91,
+    "yield_per_sqm": 2.16,
+    "market_price_per_kg": 3.25,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.44
+  },
+  "giant yukon asparagus": {
+    "seed_cost_multiplier": 2.27,
+    "yield_per_sqm": 4.97,
+    "market_price_per_kg": 4.54,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.37
+  },
+  "wild habanero asparagus": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 1.13,
+    "market_price_per_kg": 1.68,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.5
+  },
+  "avocado": {
+    "seed_cost_multiplier": 1.24,
+    "yield_per_sqm": 3.19,
+    "market_price_per_kg": 0.58,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.01
+  },
+  "royal russet avocado": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 5.2,
+    "market_price_per_kg": 3.29,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.43
+  },
+  "early iceberg avocado": {
+    "seed_cost_multiplier": 0.73,
+    "yield_per_sqm": 2.02,
+    "market_price_per_kg": 1.33,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.31
+  },
+  "coastal nantes avocado": {
+    "seed_cost_multiplier": 2.44,
+    "yield_per_sqm": 5.05,
+    "market_price_per_kg": 4.61,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.08
+  },
+  "winter imperator avocado": {
+    "seed_cost_multiplier": 1.67,
+    "yield_per_sqm": 3.43,
+    "market_price_per_kg": 2.22,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.28
+  },
+  "royal savoy avocado": {
+    "seed_cost_multiplier": 1.21,
+    "yield_per_sqm": 3.09,
+    "market_price_per_kg": 3.52,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.02
+  },
+  "golden globe avocado": {
+    "seed_cost_multiplier": 1.26,
+    "yield_per_sqm": 3.31,
+    "market_price_per_kg": 2.62,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.91
+  },
+  "giant cherry avocado": {
+    "seed_cost_multiplier": 1.29,
+    "yield_per_sqm": 2.16,
+    "market_price_per_kg": 2.58,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.14
+  },
+  "sweet globe avocado": {
+    "seed_cost_multiplier": 1.89,
+    "yield_per_sqm": 5.89,
+    "market_price_per_kg": 2.31,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.76
+  },
+  "crisp savoy avocado": {
+    "seed_cost_multiplier": 1.82,
+    "yield_per_sqm": 3.78,
+    "market_price_per_kg": 4.85,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.43
+  },
+  "banana": {
+    "seed_cost_multiplier": 1.23,
+    "yield_per_sqm": 4.08,
+    "market_price_per_kg": 1.01,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.25
+  },
+  "midnight danvers banana": {
+    "seed_cost_multiplier": 2.39,
+    "yield_per_sqm": 2.63,
+    "market_price_per_kg": 4.04,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.04
+  },
+  "valley yellow banana": {
+    "seed_cost_multiplier": 1.78,
+    "yield_per_sqm": 1.17,
+    "market_price_per_kg": 1.57,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.44
+  },
+  "urban yukon banana": {
+    "seed_cost_multiplier": 2.26,
+    "yield_per_sqm": 2.42,
+    "market_price_per_kg": 3.0,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.9
+  },
+  "organic nantes banana": {
+    "seed_cost_multiplier": 2.24,
+    "yield_per_sqm": 4.07,
+    "market_price_per_kg": 1.45,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.95
+  },
+  "hybrid round banana": {
+    "seed_cost_multiplier": 1.46,
+    "yield_per_sqm": 1.49,
+    "market_price_per_kg": 4.11,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.44
+  },
+  "royal habanero banana": {
+    "seed_cost_multiplier": 1.7,
+    "yield_per_sqm": 5.12,
+    "market_price_per_kg": 5.0,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.26
+  },
+  "winter baby banana": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 3.08,
+    "market_price_per_kg": 4.53,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.73
+  },
+  "spicy romaine banana": {
+    "seed_cost_multiplier": 1.37,
+    "yield_per_sqm": 2.71,
+    "market_price_per_kg": 3.62,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.42
+  },
+  "valley roma banana": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 2.36,
+    "market_price_per_kg": 4.98,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.78
+  },
+  "barley": {
+    "seed_cost_multiplier": 0.98,
+    "yield_per_sqm": 0.88,
+    "market_price_per_kg": 4.07,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.22
+  },
+  "alpine habanero barley": {
+    "seed_cost_multiplier": 1.93,
+    "yield_per_sqm": 4.75,
+    "market_price_per_kg": 3.18,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.48
+  },
+  "desert round barley": {
+    "seed_cost_multiplier": 1.82,
+    "yield_per_sqm": 3.81,
+    "market_price_per_kg": 0.55,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.33
+  },
+  "emerald white barley": {
+    "seed_cost_multiplier": 2.14,
+    "yield_per_sqm": 2.93,
+    "market_price_per_kg": 1.58,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.97
+  },
+  "wild long barley": {
+    "seed_cost_multiplier": 1.33,
+    "yield_per_sqm": 3.06,
+    "market_price_per_kg": 2.49,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.77
+  },
+  "midnight yukon barley": {
+    "seed_cost_multiplier": 0.92,
+    "yield_per_sqm": 5.52,
+    "market_price_per_kg": 1.57,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.4
+  },
+  "heirloom savoy barley": {
+    "seed_cost_multiplier": 1.99,
+    "yield_per_sqm": 5.09,
+    "market_price_per_kg": 4.54,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.02
+  },
+  "coastal beefsteak barley": {
+    "seed_cost_multiplier": 0.59,
+    "yield_per_sqm": 4.5,
+    "market_price_per_kg": 4.65,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.9
+  },
+  "early red barley": {
+    "seed_cost_multiplier": 1.7,
+    "yield_per_sqm": 2.85,
+    "market_price_per_kg": 4.96,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.24
+  },
+  "dwarf nantes barley": {
+    "seed_cost_multiplier": 1.2,
+    "yield_per_sqm": 2.07,
+    "market_price_per_kg": 2.45,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.74
+  },
+  "basil": {
+    "seed_cost_multiplier": 2.22,
+    "yield_per_sqm": 0.76,
+    "market_price_per_kg": 3.16,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.87
+  },
+  "winter butterhead basil": {
+    "seed_cost_multiplier": 1.4,
+    "yield_per_sqm": 5.23,
+    "market_price_per_kg": 4.85,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.24
+  },
+  "midnight jalapeno basil": {
+    "seed_cost_multiplier": 1.42,
+    "yield_per_sqm": 1.84,
+    "market_price_per_kg": 1.06,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.08
+  },
+  "urban imperator basil": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 1.51,
+    "market_price_per_kg": 3.63,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.2
+  },
+  "golden romaine basil": {
+    "seed_cost_multiplier": 1.67,
+    "yield_per_sqm": 4.85,
+    "market_price_per_kg": 1.14,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.43
+  },
+  "desert jalapeno basil": {
+    "seed_cost_multiplier": 1.8,
+    "yield_per_sqm": 2.95,
+    "market_price_per_kg": 2.72,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.06
+  },
+  "spicy nantes basil": {
+    "seed_cost_multiplier": 2.25,
+    "yield_per_sqm": 5.36,
+    "market_price_per_kg": 4.08,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.48
+  },
+  "dwarf white basil": {
+    "seed_cost_multiplier": 2.16,
+    "yield_per_sqm": 5.49,
+    "market_price_per_kg": 3.66,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.33
+  },
+  "winter long basil": {
+    "seed_cost_multiplier": 1.95,
+    "yield_per_sqm": 4.78,
+    "market_price_per_kg": 3.23,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.93
+  },
+  "emerald romaine basil": {
+    "seed_cost_multiplier": 1.56,
+    "yield_per_sqm": 5.35,
+    "market_price_per_kg": 1.59,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.06
+  },
+  "beetroot": {
+    "seed_cost_multiplier": 1.53,
+    "yield_per_sqm": 1.27,
+    "market_price_per_kg": 1.94,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.97
+  },
+  "golden yukon beetroot": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 4.66,
+    "market_price_per_kg": 0.79,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.83
+  },
+  "hybrid short beetroot": {
+    "seed_cost_multiplier": 1.04,
+    "yield_per_sqm": 2.29,
+    "market_price_per_kg": 2.25,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.85
+  },
+  "alpine beefsteak beetroot": {
+    "seed_cost_multiplier": 0.71,
+    "yield_per_sqm": 3.22,
+    "market_price_per_kg": 0.79,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.25
+  },
+  "spicy long beetroot": {
+    "seed_cost_multiplier": 0.78,
+    "yield_per_sqm": 4.98,
+    "market_price_per_kg": 3.14,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.89
+  },
+  "coastal yukon beetroot": {
+    "seed_cost_multiplier": 1.13,
+    "yield_per_sqm": 4.34,
+    "market_price_per_kg": 3.98,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.9
+  },
+  "heirloom sweet beetroot": {
+    "seed_cost_multiplier": 1.86,
+    "yield_per_sqm": 2.01,
+    "market_price_per_kg": 3.62,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.41
+  },
+  "crimson beefsteak beetroot": {
+    "seed_cost_multiplier": 2.26,
+    "yield_per_sqm": 0.51,
+    "market_price_per_kg": 3.39,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.49
+  },
+  "giant sweet beetroot": {
+    "seed_cost_multiplier": 0.85,
+    "yield_per_sqm": 1.09,
+    "market_price_per_kg": 1.33,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.77
+  },
+  "alpine savoy beetroot": {
+    "seed_cost_multiplier": 1.66,
+    "yield_per_sqm": 2.51,
+    "market_price_per_kg": 3.1,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.49
+  },
+  "blackberry": {
+    "seed_cost_multiplier": 1.44,
+    "yield_per_sqm": 4.12,
+    "market_price_per_kg": 3.25,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.9
+  },
+  "urban sweet blackberry": {
+    "seed_cost_multiplier": 1.21,
+    "yield_per_sqm": 1.75,
+    "market_price_per_kg": 2.5,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.28
+  },
+  "emerald short blackberry": {
+    "seed_cost_multiplier": 1.5,
+    "yield_per_sqm": 4.97,
+    "market_price_per_kg": 1.54,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.98
+  },
+  "crisp long blackberry": {
+    "seed_cost_multiplier": 1.55,
+    "yield_per_sqm": 2.64,
+    "market_price_per_kg": 4.85,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.94
+  },
+  "organic sweet blackberry": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 0.56,
+    "market_price_per_kg": 1.25,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.91
+  },
+  "giant russet blackberry": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 2.39,
+    "market_price_per_kg": 2.23,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.46
+  },
+  "wild bell blackberry": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 3.55,
+    "market_price_per_kg": 2.93,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.47
+  },
+  "tender danvers blackberry": {
+    "seed_cost_multiplier": 1.39,
+    "yield_per_sqm": 3.42,
+    "market_price_per_kg": 3.31,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.38
+  },
+  "winter yellow blackberry": {
+    "seed_cost_multiplier": 2.23,
+    "yield_per_sqm": 5.11,
+    "market_price_per_kg": 4.44,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.46
+  },
+  "heirloom nantes blackberry": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 2.52,
+    "market_price_per_kg": 4.26,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.14
+  },
+  "blueberry": {
+    "seed_cost_multiplier": 1.06,
+    "yield_per_sqm": 1.88,
+    "market_price_per_kg": 4.77,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.28
+  },
+  "winter long blueberry": {
+    "seed_cost_multiplier": 1.31,
+    "yield_per_sqm": 0.98,
+    "market_price_per_kg": 4.96,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.3
+  },
+  "coastal white blueberry": {
+    "seed_cost_multiplier": 0.68,
+    "yield_per_sqm": 3.17,
+    "market_price_per_kg": 1.84,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.72
+  },
+  "dwarf sweet blueberry": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 5.45,
+    "market_price_per_kg": 2.88,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.12
+  },
+  "urban beefsteak blueberry": {
+    "seed_cost_multiplier": 1.03,
+    "yield_per_sqm": 5.27,
+    "market_price_per_kg": 0.53,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.21
+  },
+  "golden butterhead blueberry": {
+    "seed_cost_multiplier": 0.56,
+    "yield_per_sqm": 5.75,
+    "market_price_per_kg": 2.15,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.7
+  },
+  "hybrid danvers blueberry": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 0.72,
+    "market_price_per_kg": 2.03,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.15
+  },
+  "wild baby blueberry": {
+    "seed_cost_multiplier": 1.94,
+    "yield_per_sqm": 0.96,
+    "market_price_per_kg": 2.99,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.47
+  },
+  "urban bell blueberry": {
+    "seed_cost_multiplier": 1.32,
+    "yield_per_sqm": 4.68,
+    "market_price_per_kg": 4.28,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.97
+  },
+  "giant long blueberry": {
+    "seed_cost_multiplier": 1.74,
+    "yield_per_sqm": 1.23,
+    "market_price_per_kg": 2.14,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.47
+  },
+  "cacao": {
+    "seed_cost_multiplier": 2.34,
+    "yield_per_sqm": 4.13,
+    "market_price_per_kg": 3.79,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.04
+  },
+  "crisp nantes cacao": {
+    "seed_cost_multiplier": 2.35,
+    "yield_per_sqm": 3.06,
+    "market_price_per_kg": 2.21,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.22
+  },
+  "late beefsteak cacao": {
+    "seed_cost_multiplier": 1.73,
+    "yield_per_sqm": 3.21,
+    "market_price_per_kg": 1.98,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.11
+  },
+  "summer russet cacao": {
+    "seed_cost_multiplier": 1.78,
+    "yield_per_sqm": 4.44,
+    "market_price_per_kg": 4.92,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.46
+  },
+  "sweet globe cacao": {
+    "seed_cost_multiplier": 1.39,
+    "yield_per_sqm": 0.79,
+    "market_price_per_kg": 3.24,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.86
+  },
+  "urban beefsteak cacao": {
+    "seed_cost_multiplier": 0.97,
+    "yield_per_sqm": 2.6,
+    "market_price_per_kg": 3.59,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.16
+  },
+  "tender bell cacao": {
+    "seed_cost_multiplier": 2.12,
+    "yield_per_sqm": 3.57,
+    "market_price_per_kg": 2.34,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.26
+  },
+  "valley beefsteak cacao": {
+    "seed_cost_multiplier": 1.34,
+    "yield_per_sqm": 4.46,
+    "market_price_per_kg": 2.16,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.73
+  },
+  "alpine sweet cacao": {
+    "seed_cost_multiplier": 1.92,
+    "yield_per_sqm": 5.0,
+    "market_price_per_kg": 3.93,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.9
+  },
+  "crimson romaine cacao": {
+    "seed_cost_multiplier": 1.7,
+    "yield_per_sqm": 2.29,
+    "market_price_per_kg": 1.22,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.49
+  },
+  "cassava": {
+    "seed_cost_multiplier": 2.14,
+    "yield_per_sqm": 5.11,
+    "market_price_per_kg": 4.84,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.21
+  },
+  "urban russet cassava": {
+    "seed_cost_multiplier": 1.37,
+    "yield_per_sqm": 1.48,
+    "market_price_per_kg": 1.06,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.15
+  },
+  "urban cherry cassava": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 0.64,
+    "market_price_per_kg": 3.38,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.39
+  },
+  "crimson iceberg cassava": {
+    "seed_cost_multiplier": 2.01,
+    "yield_per_sqm": 0.69,
+    "market_price_per_kg": 3.62,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.11
+  },
+  "tender habanero cassava": {
+    "seed_cost_multiplier": 1.53,
+    "yield_per_sqm": 0.78,
+    "market_price_per_kg": 1.07,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.96
+  },
+  "urban red cassava": {
+    "seed_cost_multiplier": 1.66,
+    "yield_per_sqm": 4.07,
+    "market_price_per_kg": 2.71,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.98
+  },
+  "early cherry cassava": {
+    "seed_cost_multiplier": 1.4,
+    "yield_per_sqm": 5.82,
+    "market_price_per_kg": 2.05,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.06
+  },
+  "organic danvers cassava": {
+    "seed_cost_multiplier": 0.92,
+    "yield_per_sqm": 4.59,
+    "market_price_per_kg": 0.99,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.79
+  },
+  "organic habanero cassava": {
+    "seed_cost_multiplier": 2.21,
+    "yield_per_sqm": 4.61,
+    "market_price_per_kg": 0.59,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.73
+  },
+  "desert imperator cassava": {
+    "seed_cost_multiplier": 1.81,
+    "yield_per_sqm": 4.3,
+    "market_price_per_kg": 4.67,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.87
+  },
+  "cauliflower": {
+    "seed_cost_multiplier": 1.99,
+    "yield_per_sqm": 1.3,
+    "market_price_per_kg": 2.98,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.17
+  },
+  "spicy iceberg cauliflower": {
+    "seed_cost_multiplier": 0.51,
+    "yield_per_sqm": 3.1,
+    "market_price_per_kg": 4.14,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.96
+  },
+  "hybrid long cauliflower": {
+    "seed_cost_multiplier": 0.85,
+    "yield_per_sqm": 1.95,
+    "market_price_per_kg": 4.21,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.0
+  },
+  "crisp white cauliflower": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 1.18,
+    "market_price_per_kg": 1.13,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.38
+  },
+  "winter russet cauliflower": {
+    "seed_cost_multiplier": 1.89,
+    "yield_per_sqm": 3.05,
+    "market_price_per_kg": 2.71,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.27
+  },
+  "emerald bell cauliflower": {
+    "seed_cost_multiplier": 2.29,
+    "yield_per_sqm": 5.27,
+    "market_price_per_kg": 0.85,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.21
+  },
+  "summer jalapeno cauliflower": {
+    "seed_cost_multiplier": 0.61,
+    "yield_per_sqm": 1.98,
+    "market_price_per_kg": 2.93,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.33
+  },
+  "dwarf red cauliflower": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 5.03,
+    "market_price_per_kg": 3.99,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.96
+  },
+  "wild roma cauliflower": {
+    "seed_cost_multiplier": 1.56,
+    "yield_per_sqm": 4.63,
+    "market_price_per_kg": 4.62,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.77
+  },
+  "alpine habanero cauliflower": {
+    "seed_cost_multiplier": 0.74,
+    "yield_per_sqm": 5.04,
+    "market_price_per_kg": 3.65,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.07
+  },
+  "celery": {
+    "seed_cost_multiplier": 2.49,
+    "yield_per_sqm": 4.02,
+    "market_price_per_kg": 4.81,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.85
+  },
+  "wild imperator celery": {
+    "seed_cost_multiplier": 0.53,
+    "yield_per_sqm": 3.35,
+    "market_price_per_kg": 1.66,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.08
+  },
+  "alpine iceberg celery": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 5.51,
+    "market_price_per_kg": 4.9,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.76
+  },
+  "dwarf nantes celery": {
+    "seed_cost_multiplier": 0.77,
+    "yield_per_sqm": 2.42,
+    "market_price_per_kg": 2.26,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.43
+  },
+  "winter butterhead celery": {
+    "seed_cost_multiplier": 2.38,
+    "yield_per_sqm": 5.82,
+    "market_price_per_kg": 3.23,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.39
+  },
+  "dwarf long celery": {
+    "seed_cost_multiplier": 1.63,
+    "yield_per_sqm": 2.1,
+    "market_price_per_kg": 3.74,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.04
+  },
+  "crimson short celery": {
+    "seed_cost_multiplier": 1.23,
+    "yield_per_sqm": 2.79,
+    "market_price_per_kg": 1.03,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.36
+  },
+  "crimson imperator celery": {
+    "seed_cost_multiplier": 0.65,
+    "yield_per_sqm": 3.88,
+    "market_price_per_kg": 3.11,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.44
+  },
+  "urban cherry celery": {
+    "seed_cost_multiplier": 0.57,
+    "yield_per_sqm": 1.05,
+    "market_price_per_kg": 4.73,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.36
+  },
+  "tender savoy celery": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 0.55,
+    "market_price_per_kg": 1.03,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.0
+  },
+  "cherry": {
+    "seed_cost_multiplier": 1.87,
+    "yield_per_sqm": 3.07,
+    "market_price_per_kg": 1.95,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.72
+  },
+  "summer sweet cherry": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 2.37,
+    "market_price_per_kg": 1.04,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.39
+  },
+  "sweet savoy cherry": {
+    "seed_cost_multiplier": 0.61,
+    "yield_per_sqm": 2.2,
+    "market_price_per_kg": 2.93,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.35
+  },
+  "urban jalapeno cherry": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 3.97,
+    "market_price_per_kg": 0.87,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.84
+  },
+  "valley habanero cherry": {
+    "seed_cost_multiplier": 0.89,
+    "yield_per_sqm": 4.2,
+    "market_price_per_kg": 3.61,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.25
+  },
+  "winter baby cherry": {
+    "seed_cost_multiplier": 1.26,
+    "yield_per_sqm": 2.49,
+    "market_price_per_kg": 1.68,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.42
+  },
+  "royal long cherry": {
+    "seed_cost_multiplier": 2.34,
+    "yield_per_sqm": 3.5,
+    "market_price_per_kg": 3.78,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.13
+  },
+  "dwarf round cherry": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 5.51,
+    "market_price_per_kg": 4.96,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.45
+  },
+  "dwarf savoy cherry": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 2.51,
+    "market_price_per_kg": 3.12,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.93
+  },
+  "golden jalapeno cherry": {
+    "seed_cost_multiplier": 1.89,
+    "yield_per_sqm": 5.77,
+    "market_price_per_kg": 4.76,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.8
+  },
+  "chickpea": {
+    "seed_cost_multiplier": 1.76,
+    "yield_per_sqm": 4.94,
+    "market_price_per_kg": 1.87,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.82
+  },
+  "wild nantes chickpea": {
+    "seed_cost_multiplier": 1.37,
+    "yield_per_sqm": 4.32,
+    "market_price_per_kg": 2.28,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.27
+  },
+  "coastal white chickpea": {
+    "seed_cost_multiplier": 1.73,
+    "yield_per_sqm": 2.71,
+    "market_price_per_kg": 1.27,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.94
+  },
+  "wild romaine chickpea": {
+    "seed_cost_multiplier": 2.38,
+    "yield_per_sqm": 3.19,
+    "market_price_per_kg": 4.77,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.16
+  },
+  "emerald short chickpea": {
+    "seed_cost_multiplier": 1.51,
+    "yield_per_sqm": 5.03,
+    "market_price_per_kg": 2.58,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.39
+  },
+  "late round chickpea": {
+    "seed_cost_multiplier": 1.26,
+    "yield_per_sqm": 0.59,
+    "market_price_per_kg": 1.09,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.39
+  },
+  "spicy short chickpea": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 3.41,
+    "market_price_per_kg": 1.03,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.23
+  },
+  "spicy beefsteak chickpea": {
+    "seed_cost_multiplier": 1.7,
+    "yield_per_sqm": 3.74,
+    "market_price_per_kg": 1.74,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.45
+  },
+  "emerald globe chickpea": {
+    "seed_cost_multiplier": 1.48,
+    "yield_per_sqm": 5.19,
+    "market_price_per_kg": 2.21,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.0
+  },
+  "heirloom habanero chickpea": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 5.79,
+    "market_price_per_kg": 3.54,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.86
+  },
+  "chili": {
+    "seed_cost_multiplier": 1.21,
+    "yield_per_sqm": 4.22,
+    "market_price_per_kg": 2.58,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.45
+  },
+  "desert iceberg chili": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 5.2,
+    "market_price_per_kg": 1.76,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.8
+  },
+  "late imperator chili": {
+    "seed_cost_multiplier": 1.14,
+    "yield_per_sqm": 1.18,
+    "market_price_per_kg": 1.88,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.44
+  },
+  "sunrise habanero chili": {
+    "seed_cost_multiplier": 1.52,
+    "yield_per_sqm": 3.62,
+    "market_price_per_kg": 4.27,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.73
+  },
+  "emerald red chili": {
+    "seed_cost_multiplier": 2.05,
+    "yield_per_sqm": 4.49,
+    "market_price_per_kg": 0.92,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.98
+  },
+  "tender red chili": {
+    "seed_cost_multiplier": 1.65,
+    "yield_per_sqm": 3.87,
+    "market_price_per_kg": 3.09,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.82
+  },
+  "emerald beefsteak chili": {
+    "seed_cost_multiplier": 1.51,
+    "yield_per_sqm": 4.2,
+    "market_price_per_kg": 1.2,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.98
+  },
+  "late white chili": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 1.33,
+    "market_price_per_kg": 3.28,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.74
+  },
+  "organic jalapeno chili": {
+    "seed_cost_multiplier": 0.59,
+    "yield_per_sqm": 1.29,
+    "market_price_per_kg": 1.08,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.12
+  },
+  "winter romaine chili": {
+    "seed_cost_multiplier": 0.79,
+    "yield_per_sqm": 5.41,
+    "market_price_per_kg": 4.13,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.18
+  },
+  "chives": {
+    "seed_cost_multiplier": 0.63,
+    "yield_per_sqm": 1.13,
+    "market_price_per_kg": 4.32,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.2
+  },
+  "crisp white chives": {
+    "seed_cost_multiplier": 2.34,
+    "yield_per_sqm": 5.44,
+    "market_price_per_kg": 3.85,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.03
+  },
+  "emerald beefsteak chives": {
+    "seed_cost_multiplier": 1.89,
+    "yield_per_sqm": 3.39,
+    "market_price_per_kg": 4.41,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.13
+  },
+  "wild yellow chives": {
+    "seed_cost_multiplier": 1.5,
+    "yield_per_sqm": 3.42,
+    "market_price_per_kg": 3.91,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.28
+  },
+  "late cherry chives": {
+    "seed_cost_multiplier": 1.62,
+    "yield_per_sqm": 3.43,
+    "market_price_per_kg": 1.37,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.88
+  },
+  "early short chives": {
+    "seed_cost_multiplier": 1.38,
+    "yield_per_sqm": 1.01,
+    "market_price_per_kg": 3.83,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.9
+  },
+  "organic bell chives": {
+    "seed_cost_multiplier": 2.41,
+    "yield_per_sqm": 5.42,
+    "market_price_per_kg": 2.92,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.42
+  },
+  "alpine butterhead chives": {
+    "seed_cost_multiplier": 1.27,
+    "yield_per_sqm": 1.13,
+    "market_price_per_kg": 3.61,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.88
+  },
+  "royal romaine chives": {
+    "seed_cost_multiplier": 2.39,
+    "yield_per_sqm": 4.97,
+    "market_price_per_kg": 1.32,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.09
+  },
+  "hybrid cherry chives": {
+    "seed_cost_multiplier": 0.85,
+    "yield_per_sqm": 5.42,
+    "market_price_per_kg": 1.39,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.43
+  },
+  "cilantro": {
+    "seed_cost_multiplier": 0.93,
+    "yield_per_sqm": 4.61,
+    "market_price_per_kg": 4.0,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.88
+  },
+  "valley baby cilantro": {
+    "seed_cost_multiplier": 0.57,
+    "yield_per_sqm": 5.88,
+    "market_price_per_kg": 1.75,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.19
+  },
+  "organic russet cilantro": {
+    "seed_cost_multiplier": 0.77,
+    "yield_per_sqm": 5.96,
+    "market_price_per_kg": 3.04,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.77
+  },
+  "desert yukon cilantro": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 1.8,
+    "market_price_per_kg": 3.39,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.37
+  },
+  "sunrise romaine cilantro": {
+    "seed_cost_multiplier": 1.44,
+    "yield_per_sqm": 5.05,
+    "market_price_per_kg": 3.95,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.06
+  },
+  "desert cherry cilantro": {
+    "seed_cost_multiplier": 0.53,
+    "yield_per_sqm": 5.96,
+    "market_price_per_kg": 2.01,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.44
+  },
+  "organic yellow cilantro": {
+    "seed_cost_multiplier": 1.53,
+    "yield_per_sqm": 4.92,
+    "market_price_per_kg": 4.13,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.02
+  },
+  "summer habanero cilantro": {
+    "seed_cost_multiplier": 1.49,
+    "yield_per_sqm": 3.45,
+    "market_price_per_kg": 3.07,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.19
+  },
+  "tender imperator cilantro": {
+    "seed_cost_multiplier": 2.41,
+    "yield_per_sqm": 0.63,
+    "market_price_per_kg": 0.71,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.74
+  },
+  "crisp danvers cilantro": {
+    "seed_cost_multiplier": 1.91,
+    "yield_per_sqm": 1.3,
+    "market_price_per_kg": 4.3,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.11
+  },
+  "coconut": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 1.43,
+    "market_price_per_kg": 1.26,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.16
+  },
+  "crisp nantes coconut": {
+    "seed_cost_multiplier": 1.07,
+    "yield_per_sqm": 4.07,
+    "market_price_per_kg": 3.38,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.37
+  },
+  "dwarf habanero coconut": {
+    "seed_cost_multiplier": 1.24,
+    "yield_per_sqm": 5.89,
+    "market_price_per_kg": 3.01,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.98
+  },
+  "hybrid butterhead coconut": {
+    "seed_cost_multiplier": 1.07,
+    "yield_per_sqm": 4.41,
+    "market_price_per_kg": 3.21,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.17
+  },
+  "emerald yellow coconut": {
+    "seed_cost_multiplier": 2.27,
+    "yield_per_sqm": 1.63,
+    "market_price_per_kg": 3.89,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.85
+  },
+  "tender iceberg coconut": {
+    "seed_cost_multiplier": 2.12,
+    "yield_per_sqm": 3.4,
+    "market_price_per_kg": 4.33,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.77
+  },
+  "crisp beefsteak coconut": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 3.92,
+    "market_price_per_kg": 3.33,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.99
+  },
+  "giant yukon coconut": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 2.34,
+    "market_price_per_kg": 4.54,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.14
+  },
+  "hybrid danvers coconut": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 3.17,
+    "market_price_per_kg": 0.87,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.02
+  },
+  "golden red coconut": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 1.87,
+    "market_price_per_kg": 2.67,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.04
+  },
+  "coffee": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 0.78,
+    "market_price_per_kg": 2.63,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.05
+  },
+  "spicy nantes coffee": {
+    "seed_cost_multiplier": 0.99,
+    "yield_per_sqm": 3.0,
+    "market_price_per_kg": 2.58,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.94
+  },
+  "crimson cherry coffee": {
+    "seed_cost_multiplier": 1.51,
+    "yield_per_sqm": 1.46,
+    "market_price_per_kg": 4.21,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.02
+  },
+  "spicy savoy coffee": {
+    "seed_cost_multiplier": 1.03,
+    "yield_per_sqm": 3.02,
+    "market_price_per_kg": 0.68,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.27
+  },
+  "desert red coffee": {
+    "seed_cost_multiplier": 1.6,
+    "yield_per_sqm": 4.24,
+    "market_price_per_kg": 1.02,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.42
+  },
+  "spicy red coffee": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 1.1,
+    "market_price_per_kg": 0.88,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.26
+  },
+  "winter danvers coffee": {
+    "seed_cost_multiplier": 2.24,
+    "yield_per_sqm": 4.61,
+    "market_price_per_kg": 1.26,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.85
+  },
+  "late jalapeno coffee": {
+    "seed_cost_multiplier": 2.25,
+    "yield_per_sqm": 2.52,
+    "market_price_per_kg": 4.59,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.12
+  },
+  "heirloom globe coffee": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 1.95,
+    "market_price_per_kg": 4.11,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.71
+  },
+  "desert romaine coffee": {
+    "seed_cost_multiplier": 2.45,
+    "yield_per_sqm": 3.68,
+    "market_price_per_kg": 3.54,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.17
+  },
+  "cranberry": {
+    "seed_cost_multiplier": 1.13,
+    "yield_per_sqm": 0.79,
+    "market_price_per_kg": 4.31,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.08
+  },
+  "urban roma cranberry": {
+    "seed_cost_multiplier": 0.7,
+    "yield_per_sqm": 3.09,
+    "market_price_per_kg": 0.53,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.93
+  },
+  "royal yukon cranberry": {
+    "seed_cost_multiplier": 0.76,
+    "yield_per_sqm": 1.84,
+    "market_price_per_kg": 4.43,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.45
+  },
+  "alpine iceberg cranberry": {
+    "seed_cost_multiplier": 0.98,
+    "yield_per_sqm": 1.78,
+    "market_price_per_kg": 4.03,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.97
+  },
+  "sunrise nantes cranberry": {
+    "seed_cost_multiplier": 1.26,
+    "yield_per_sqm": 1.95,
+    "market_price_per_kg": 1.79,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.11
+  },
+  "summer short cranberry": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 3.0,
+    "market_price_per_kg": 4.74,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.25
+  },
+  "alpine baby cranberry": {
+    "seed_cost_multiplier": 0.99,
+    "yield_per_sqm": 1.44,
+    "market_price_per_kg": 2.04,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.38
+  },
+  "spicy butterhead cranberry": {
+    "seed_cost_multiplier": 1.17,
+    "yield_per_sqm": 0.95,
+    "market_price_per_kg": 3.17,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.83
+  },
+  "urban bell cranberry": {
+    "seed_cost_multiplier": 0.91,
+    "yield_per_sqm": 4.16,
+    "market_price_per_kg": 0.93,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.02
+  },
+  "emerald imperator cranberry": {
+    "seed_cost_multiplier": 0.9,
+    "yield_per_sqm": 3.68,
+    "market_price_per_kg": 0.63,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.86
+  },
+  "date": {
+    "seed_cost_multiplier": 0.93,
+    "yield_per_sqm": 4.13,
+    "market_price_per_kg": 3.22,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.78
+  },
+  "winter butterhead date": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 5.81,
+    "market_price_per_kg": 4.84,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.45
+  },
+  "organic short date": {
+    "seed_cost_multiplier": 1.11,
+    "yield_per_sqm": 0.59,
+    "market_price_per_kg": 3.7,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.76
+  },
+  "heirloom beefsteak date": {
+    "seed_cost_multiplier": 1.38,
+    "yield_per_sqm": 4.05,
+    "market_price_per_kg": 1.96,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.88
+  },
+  "dwarf sweet date": {
+    "seed_cost_multiplier": 1.31,
+    "yield_per_sqm": 1.3,
+    "market_price_per_kg": 0.87,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.81
+  },
+  "crisp round date": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 3.64,
+    "market_price_per_kg": 0.62,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.72
+  },
+  "desert yellow date": {
+    "seed_cost_multiplier": 0.6,
+    "yield_per_sqm": 2.87,
+    "market_price_per_kg": 3.0,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.15
+  },
+  "urban long date": {
+    "seed_cost_multiplier": 1.56,
+    "yield_per_sqm": 1.68,
+    "market_price_per_kg": 4.05,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.83
+  },
+  "tender romaine date": {
+    "seed_cost_multiplier": 1.5,
+    "yield_per_sqm": 1.93,
+    "market_price_per_kg": 1.46,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.43
+  },
+  "royal habanero date": {
+    "seed_cost_multiplier": 2.42,
+    "yield_per_sqm": 5.11,
+    "market_price_per_kg": 3.06,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.47
+  },
+  "dill": {
+    "seed_cost_multiplier": 1.59,
+    "yield_per_sqm": 2.97,
+    "market_price_per_kg": 4.94,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.72
+  },
+  "valley sweet dill": {
+    "seed_cost_multiplier": 1.03,
+    "yield_per_sqm": 5.29,
+    "market_price_per_kg": 4.02,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.77
+  },
+  "sweet romaine dill": {
+    "seed_cost_multiplier": 2.4,
+    "yield_per_sqm": 0.65,
+    "market_price_per_kg": 3.19,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.97
+  },
+  "desert iceberg dill": {
+    "seed_cost_multiplier": 1.89,
+    "yield_per_sqm": 3.57,
+    "market_price_per_kg": 4.18,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.73
+  },
+  "heirloom beefsteak dill": {
+    "seed_cost_multiplier": 1.04,
+    "yield_per_sqm": 2.26,
+    "market_price_per_kg": 0.8,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.81
+  },
+  "dwarf yukon dill": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 3.62,
+    "market_price_per_kg": 4.66,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.81
+  },
+  "tender iceberg dill": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 4.22,
+    "market_price_per_kg": 4.44,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.23
+  },
+  "late white dill": {
+    "seed_cost_multiplier": 0.76,
+    "yield_per_sqm": 4.87,
+    "market_price_per_kg": 1.14,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.72
+  },
+  "sweet baby dill": {
+    "seed_cost_multiplier": 1.23,
+    "yield_per_sqm": 2.32,
+    "market_price_per_kg": 3.23,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.74
+  },
+  "giant cherry dill": {
+    "seed_cost_multiplier": 1.36,
+    "yield_per_sqm": 5.9,
+    "market_price_per_kg": 4.53,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.46
+  },
+  "fig": {
+    "seed_cost_multiplier": 1.93,
+    "yield_per_sqm": 1.68,
+    "market_price_per_kg": 1.75,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.4
+  },
+  "giant round fig": {
+    "seed_cost_multiplier": 1.56,
+    "yield_per_sqm": 4.3,
+    "market_price_per_kg": 3.31,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.13
+  },
+  "spicy yukon fig": {
+    "seed_cost_multiplier": 2.18,
+    "yield_per_sqm": 0.93,
+    "market_price_per_kg": 2.09,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.96
+  },
+  "valley baby fig": {
+    "seed_cost_multiplier": 1.51,
+    "yield_per_sqm": 3.99,
+    "market_price_per_kg": 1.74,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.81
+  },
+  "early round fig": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 3.97,
+    "market_price_per_kg": 3.82,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.46
+  },
+  "dwarf habanero fig": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 3.79,
+    "market_price_per_kg": 2.29,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.06
+  },
+  "winter habanero fig": {
+    "seed_cost_multiplier": 2.4,
+    "yield_per_sqm": 2.83,
+    "market_price_per_kg": 2.6,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.42
+  },
+  "tender white fig": {
+    "seed_cost_multiplier": 0.74,
+    "yield_per_sqm": 4.76,
+    "market_price_per_kg": 2.26,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.79
+  },
+  "emerald danvers fig": {
+    "seed_cost_multiplier": 0.54,
+    "yield_per_sqm": 5.19,
+    "market_price_per_kg": 1.7,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.14
+  },
+  "emerald round fig": {
+    "seed_cost_multiplier": 1.72,
+    "yield_per_sqm": 5.03,
+    "market_price_per_kg": 4.21,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.34
+  },
+  "flax": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 4.11,
+    "market_price_per_kg": 4.83,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.21
+  },
+  "winter savoy flax": {
+    "seed_cost_multiplier": 1.44,
+    "yield_per_sqm": 4.99,
+    "market_price_per_kg": 0.76,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.12
+  },
+  "tender beefsteak flax": {
+    "seed_cost_multiplier": 0.96,
+    "yield_per_sqm": 5.28,
+    "market_price_per_kg": 1.98,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.23
+  },
+  "midnight yukon flax": {
+    "seed_cost_multiplier": 0.66,
+    "yield_per_sqm": 1.78,
+    "market_price_per_kg": 3.62,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.44
+  },
+  "wild red flax": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 4.04,
+    "market_price_per_kg": 0.58,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.47
+  },
+  "emerald butterhead flax": {
+    "seed_cost_multiplier": 0.81,
+    "yield_per_sqm": 4.65,
+    "market_price_per_kg": 2.74,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.75
+  },
+  "urban romaine flax": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 3.31,
+    "market_price_per_kg": 4.44,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.91
+  },
+  "emerald cherry flax": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 1.33,
+    "market_price_per_kg": 3.94,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.1
+  },
+  "late imperator flax": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 4.36,
+    "market_price_per_kg": 3.88,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.23
+  },
+  "giant roma flax": {
+    "seed_cost_multiplier": 0.5,
+    "yield_per_sqm": 1.49,
+    "market_price_per_kg": 4.19,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.14
+  },
+  "ginger": {
+    "seed_cost_multiplier": 1.43,
+    "yield_per_sqm": 2.16,
+    "market_price_per_kg": 2.28,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.38
+  },
+  "winter imperator ginger": {
+    "seed_cost_multiplier": 0.75,
+    "yield_per_sqm": 4.1,
+    "market_price_per_kg": 3.76,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.37
+  },
+  "summer short ginger": {
+    "seed_cost_multiplier": 2.37,
+    "yield_per_sqm": 2.55,
+    "market_price_per_kg": 1.81,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.9
+  },
+  "organic red ginger": {
+    "seed_cost_multiplier": 0.94,
+    "yield_per_sqm": 4.75,
+    "market_price_per_kg": 3.09,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.12
+  },
+  "valley bell ginger": {
+    "seed_cost_multiplier": 0.95,
+    "yield_per_sqm": 1.22,
+    "market_price_per_kg": 1.52,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.46
+  },
+  "summer imperator ginger": {
+    "seed_cost_multiplier": 2.04,
+    "yield_per_sqm": 4.26,
+    "market_price_per_kg": 2.3,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.4
+  },
+  "winter yukon ginger": {
+    "seed_cost_multiplier": 0.52,
+    "yield_per_sqm": 1.55,
+    "market_price_per_kg": 0.87,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.03
+  },
+  "desert long ginger": {
+    "seed_cost_multiplier": 2.21,
+    "yield_per_sqm": 0.7,
+    "market_price_per_kg": 3.45,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.38
+  },
+  "dwarf jalapeno ginger": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 4.41,
+    "market_price_per_kg": 1.34,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.02
+  },
+  "valley beefsteak ginger": {
+    "seed_cost_multiplier": 0.83,
+    "yield_per_sqm": 4.1,
+    "market_price_per_kg": 4.45,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.44
+  },
+  "grape": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 4.24,
+    "market_price_per_kg": 4.58,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.73
+  },
+  "hybrid bell grape": {
+    "seed_cost_multiplier": 2.13,
+    "yield_per_sqm": 2.98,
+    "market_price_per_kg": 1.3,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.2
+  },
+  "tender yellow grape": {
+    "seed_cost_multiplier": 1.07,
+    "yield_per_sqm": 5.52,
+    "market_price_per_kg": 3.12,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.38
+  },
+  "royal butterhead grape": {
+    "seed_cost_multiplier": 1.86,
+    "yield_per_sqm": 2.06,
+    "market_price_per_kg": 2.5,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.3
+  },
+  "midnight short grape": {
+    "seed_cost_multiplier": 1.45,
+    "yield_per_sqm": 0.55,
+    "market_price_per_kg": 3.16,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.83
+  },
+  "winter sweet grape": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 2.03,
+    "market_price_per_kg": 2.31,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.14
+  },
+  "sunrise bell grape": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 2.39,
+    "market_price_per_kg": 4.18,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.18
+  },
+  "emerald habanero grape": {
+    "seed_cost_multiplier": 0.6,
+    "yield_per_sqm": 5.61,
+    "market_price_per_kg": 2.41,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.22
+  },
+  "dwarf short grape": {
+    "seed_cost_multiplier": 2.12,
+    "yield_per_sqm": 5.43,
+    "market_price_per_kg": 2.43,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.14
+  },
+  "royal white grape": {
+    "seed_cost_multiplier": 1.93,
+    "yield_per_sqm": 2.24,
+    "market_price_per_kg": 3.49,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.73
+  },
+  "grapefruit": {
+    "seed_cost_multiplier": 1.29,
+    "yield_per_sqm": 3.97,
+    "market_price_per_kg": 2.17,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.71
+  },
+  "alpine nantes grapefruit": {
+    "seed_cost_multiplier": 2.45,
+    "yield_per_sqm": 1.02,
+    "market_price_per_kg": 4.93,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.43
+  },
+  "crimson long grapefruit": {
+    "seed_cost_multiplier": 1.58,
+    "yield_per_sqm": 1.63,
+    "market_price_per_kg": 2.95,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.95
+  },
+  "organic beefsteak grapefruit": {
+    "seed_cost_multiplier": 1.76,
+    "yield_per_sqm": 2.9,
+    "market_price_per_kg": 2.47,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.95
+  },
+  "coastal round grapefruit": {
+    "seed_cost_multiplier": 2.17,
+    "yield_per_sqm": 0.97,
+    "market_price_per_kg": 1.18,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.4
+  },
+  "dwarf nantes grapefruit": {
+    "seed_cost_multiplier": 1.49,
+    "yield_per_sqm": 2.98,
+    "market_price_per_kg": 1.59,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.47
+  },
+  "golden beefsteak grapefruit": {
+    "seed_cost_multiplier": 0.53,
+    "yield_per_sqm": 4.7,
+    "market_price_per_kg": 3.59,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.89
+  },
+  "crimson baby grapefruit": {
+    "seed_cost_multiplier": 1.23,
+    "yield_per_sqm": 1.69,
+    "market_price_per_kg": 2.63,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.08
+  },
+  "early butterhead grapefruit": {
+    "seed_cost_multiplier": 1.46,
+    "yield_per_sqm": 3.76,
+    "market_price_per_kg": 2.42,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.88
+  },
+  "midnight romaine grapefruit": {
+    "seed_cost_multiplier": 1.74,
+    "yield_per_sqm": 0.95,
+    "market_price_per_kg": 2.85,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.89
+  },
+  "guava": {
+    "seed_cost_multiplier": 1.78,
+    "yield_per_sqm": 3.38,
+    "market_price_per_kg": 1.05,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.93
+  },
+  "winter round guava": {
+    "seed_cost_multiplier": 1.43,
+    "yield_per_sqm": 4.28,
+    "market_price_per_kg": 2.97,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.29
+  },
+  "valley beefsteak guava": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 0.73,
+    "market_price_per_kg": 0.98,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.48
+  },
+  "organic danvers guava": {
+    "seed_cost_multiplier": 1.63,
+    "yield_per_sqm": 0.8,
+    "market_price_per_kg": 2.83,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.49
+  },
+  "wild habanero guava": {
+    "seed_cost_multiplier": 0.74,
+    "yield_per_sqm": 3.58,
+    "market_price_per_kg": 1.8,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.78
+  },
+  "summer round guava": {
+    "seed_cost_multiplier": 2.21,
+    "yield_per_sqm": 5.09,
+    "market_price_per_kg": 3.89,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.75
+  },
+  "royal habanero guava": {
+    "seed_cost_multiplier": 1.61,
+    "yield_per_sqm": 3.64,
+    "market_price_per_kg": 0.89,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.37
+  },
+  "crisp iceberg guava": {
+    "seed_cost_multiplier": 2.38,
+    "yield_per_sqm": 1.9,
+    "market_price_per_kg": 4.72,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.86
+  },
+  "wild danvers guava": {
+    "seed_cost_multiplier": 1.18,
+    "yield_per_sqm": 0.51,
+    "market_price_per_kg": 3.29,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.77
+  },
+  "spicy romaine guava": {
+    "seed_cost_multiplier": 0.53,
+    "yield_per_sqm": 3.67,
+    "market_price_per_kg": 4.46,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.75
+  },
+  "hazelnut": {
+    "seed_cost_multiplier": 0.73,
+    "yield_per_sqm": 3.38,
+    "market_price_per_kg": 4.65,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.12
+  },
+  "valley danvers hazelnut": {
+    "seed_cost_multiplier": 1.83,
+    "yield_per_sqm": 1.54,
+    "market_price_per_kg": 2.49,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.05
+  },
+  "sunrise long hazelnut": {
+    "seed_cost_multiplier": 2.23,
+    "yield_per_sqm": 1.47,
+    "market_price_per_kg": 4.18,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.24
+  },
+  "crimson red hazelnut": {
+    "seed_cost_multiplier": 1.61,
+    "yield_per_sqm": 1.35,
+    "market_price_per_kg": 4.39,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.73
+  },
+  "crisp iceberg hazelnut": {
+    "seed_cost_multiplier": 0.73,
+    "yield_per_sqm": 3.9,
+    "market_price_per_kg": 4.42,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.04
+  },
+  "crimson globe hazelnut": {
+    "seed_cost_multiplier": 1.17,
+    "yield_per_sqm": 5.37,
+    "market_price_per_kg": 2.94,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.92
+  },
+  "tender baby hazelnut": {
+    "seed_cost_multiplier": 1.86,
+    "yield_per_sqm": 5.88,
+    "market_price_per_kg": 3.73,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.85
+  },
+  "late russet hazelnut": {
+    "seed_cost_multiplier": 0.59,
+    "yield_per_sqm": 0.57,
+    "market_price_per_kg": 1.29,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.16
+  },
+  "sweet nantes hazelnut": {
+    "seed_cost_multiplier": 2.21,
+    "yield_per_sqm": 2.63,
+    "market_price_per_kg": 3.64,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.28
+  },
+  "giant red hazelnut": {
+    "seed_cost_multiplier": 0.87,
+    "yield_per_sqm": 4.8,
+    "market_price_per_kg": 0.52,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.83
+  },
+  "hemp": {
+    "seed_cost_multiplier": 2.31,
+    "yield_per_sqm": 3.1,
+    "market_price_per_kg": 2.43,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.74
+  },
+  "royal sweet hemp": {
+    "seed_cost_multiplier": 1.52,
+    "yield_per_sqm": 3.34,
+    "market_price_per_kg": 4.58,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.72
+  },
+  "emerald danvers hemp": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 5.13,
+    "market_price_per_kg": 4.96,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.13
+  },
+  "midnight bell hemp": {
+    "seed_cost_multiplier": 0.71,
+    "yield_per_sqm": 2.52,
+    "market_price_per_kg": 3.18,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.92
+  },
+  "hybrid imperator hemp": {
+    "seed_cost_multiplier": 0.81,
+    "yield_per_sqm": 1.97,
+    "market_price_per_kg": 1.75,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.48
+  },
+  "tender short hemp": {
+    "seed_cost_multiplier": 2.09,
+    "yield_per_sqm": 3.74,
+    "market_price_per_kg": 4.73,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.84
+  },
+  "alpine butterhead hemp": {
+    "seed_cost_multiplier": 1.46,
+    "yield_per_sqm": 5.14,
+    "market_price_per_kg": 0.76,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.96
+  },
+  "spicy yellow hemp": {
+    "seed_cost_multiplier": 1.19,
+    "yield_per_sqm": 3.44,
+    "market_price_per_kg": 3.7,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.02
+  },
+  "giant iceberg hemp": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 3.42,
+    "market_price_per_kg": 4.67,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.15
+  },
+  "hybrid cherry hemp": {
+    "seed_cost_multiplier": 1.87,
+    "yield_per_sqm": 4.1,
+    "market_price_per_kg": 2.62,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.32
+  },
+  "kale": {
+    "seed_cost_multiplier": 1.64,
+    "yield_per_sqm": 1.74,
+    "market_price_per_kg": 1.85,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.76
+  },
+  "tender red kale": {
+    "seed_cost_multiplier": 2.15,
+    "yield_per_sqm": 1.05,
+    "market_price_per_kg": 2.77,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.84
+  },
+  "dwarf romaine kale": {
+    "seed_cost_multiplier": 1.27,
+    "yield_per_sqm": 0.92,
+    "market_price_per_kg": 3.31,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.73
+  },
+  "organic beefsteak kale": {
+    "seed_cost_multiplier": 1.88,
+    "yield_per_sqm": 1.98,
+    "market_price_per_kg": 3.91,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.33
+  },
+  "giant red kale": {
+    "seed_cost_multiplier": 1.95,
+    "yield_per_sqm": 4.52,
+    "market_price_per_kg": 2.62,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.8
+  },
+  "midnight baby kale": {
+    "seed_cost_multiplier": 0.7,
+    "yield_per_sqm": 1.31,
+    "market_price_per_kg": 1.73,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.1
+  },
+  "valley savoy kale": {
+    "seed_cost_multiplier": 1.53,
+    "yield_per_sqm": 5.67,
+    "market_price_per_kg": 4.73,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.93
+  },
+  "late cherry kale": {
+    "seed_cost_multiplier": 1.94,
+    "yield_per_sqm": 3.39,
+    "market_price_per_kg": 2.79,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.89
+  },
+  "alpine danvers kale": {
+    "seed_cost_multiplier": 1.72,
+    "yield_per_sqm": 4.2,
+    "market_price_per_kg": 4.01,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.44
+  },
+  "heirloom nantes kale": {
+    "seed_cost_multiplier": 1.81,
+    "yield_per_sqm": 1.2,
+    "market_price_per_kg": 2.77,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.79
+  },
+  "kiwi": {
+    "seed_cost_multiplier": 1.43,
+    "yield_per_sqm": 1.61,
+    "market_price_per_kg": 1.23,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.19
+  },
+  "emerald beefsteak kiwi": {
+    "seed_cost_multiplier": 1.64,
+    "yield_per_sqm": 3.49,
+    "market_price_per_kg": 0.84,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.02
+  },
+  "sweet cherry kiwi": {
+    "seed_cost_multiplier": 1.75,
+    "yield_per_sqm": 1.53,
+    "market_price_per_kg": 2.73,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.21
+  },
+  "early baby kiwi": {
+    "seed_cost_multiplier": 1.8,
+    "yield_per_sqm": 0.69,
+    "market_price_per_kg": 3.76,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.04
+  },
+  "royal imperator kiwi": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 3.68,
+    "market_price_per_kg": 2.41,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.76
+  },
+  "late yellow kiwi": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 5.65,
+    "market_price_per_kg": 4.18,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.26
+  },
+  "valley sweet kiwi": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 2.11,
+    "market_price_per_kg": 1.73,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.29
+  },
+  "desert roma kiwi": {
+    "seed_cost_multiplier": 0.57,
+    "yield_per_sqm": 1.3,
+    "market_price_per_kg": 1.7,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.93
+  },
+  "late yukon kiwi": {
+    "seed_cost_multiplier": 1.35,
+    "yield_per_sqm": 3.79,
+    "market_price_per_kg": 3.02,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.45
+  },
+  "organic habanero kiwi": {
+    "seed_cost_multiplier": 1.16,
+    "yield_per_sqm": 1.61,
+    "market_price_per_kg": 2.11,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.03
+  },
+  "leek": {
+    "seed_cost_multiplier": 1.06,
+    "yield_per_sqm": 3.7,
+    "market_price_per_kg": 4.28,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.03
+  },
+  "alpine savoy leek": {
+    "seed_cost_multiplier": 1.11,
+    "yield_per_sqm": 5.21,
+    "market_price_per_kg": 2.77,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.93
+  },
+  "alpine russet leek": {
+    "seed_cost_multiplier": 1.0,
+    "yield_per_sqm": 1.22,
+    "market_price_per_kg": 0.56,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.1
+  },
+  "desert bell leek": {
+    "seed_cost_multiplier": 1.59,
+    "yield_per_sqm": 4.51,
+    "market_price_per_kg": 2.8,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.1
+  },
+  "spicy jalapeno leek": {
+    "seed_cost_multiplier": 1.79,
+    "yield_per_sqm": 1.76,
+    "market_price_per_kg": 3.73,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.17
+  },
+  "alpine white leek": {
+    "seed_cost_multiplier": 1.08,
+    "yield_per_sqm": 2.06,
+    "market_price_per_kg": 2.49,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.94
+  },
+  "coastal butterhead leek": {
+    "seed_cost_multiplier": 0.85,
+    "yield_per_sqm": 2.61,
+    "market_price_per_kg": 4.7,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.45
+  },
+  "winter butterhead leek": {
+    "seed_cost_multiplier": 0.84,
+    "yield_per_sqm": 4.35,
+    "market_price_per_kg": 3.14,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.44
+  },
+  "wild habanero leek": {
+    "seed_cost_multiplier": 1.93,
+    "yield_per_sqm": 2.09,
+    "market_price_per_kg": 4.57,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.9
+  },
+  "tender round leek": {
+    "seed_cost_multiplier": 1.14,
+    "yield_per_sqm": 2.85,
+    "market_price_per_kg": 3.01,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.82
+  },
+  "lemon": {
+    "seed_cost_multiplier": 2.47,
+    "yield_per_sqm": 3.38,
+    "market_price_per_kg": 4.11,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.29
+  },
+  "wild red lemon": {
+    "seed_cost_multiplier": 0.97,
+    "yield_per_sqm": 4.75,
+    "market_price_per_kg": 1.8,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.07
+  },
+  "emerald butterhead lemon": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 1.75,
+    "market_price_per_kg": 1.46,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.88
+  },
+  "golden habanero lemon": {
+    "seed_cost_multiplier": 1.4,
+    "yield_per_sqm": 5.36,
+    "market_price_per_kg": 3.02,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.48
+  },
+  "emerald beefsteak lemon": {
+    "seed_cost_multiplier": 1.89,
+    "yield_per_sqm": 0.51,
+    "market_price_per_kg": 0.61,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.95
+  },
+  "midnight red lemon": {
+    "seed_cost_multiplier": 1.36,
+    "yield_per_sqm": 5.57,
+    "market_price_per_kg": 2.59,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.26
+  },
+  "alpine iceberg lemon": {
+    "seed_cost_multiplier": 1.64,
+    "yield_per_sqm": 1.76,
+    "market_price_per_kg": 3.25,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.21
+  },
+  "wild butterhead lemon": {
+    "seed_cost_multiplier": 1.68,
+    "yield_per_sqm": 1.22,
+    "market_price_per_kg": 4.83,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.75
+  },
+  "valley habanero lemon": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 5.67,
+    "market_price_per_kg": 1.33,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.92
+  },
+  "crimson baby lemon": {
+    "seed_cost_multiplier": 1.97,
+    "yield_per_sqm": 0.99,
+    "market_price_per_kg": 0.85,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.0
+  },
+  "lentil": {
+    "seed_cost_multiplier": 1.74,
+    "yield_per_sqm": 2.07,
+    "market_price_per_kg": 2.36,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.92
+  },
+  "crisp roma lentil": {
+    "seed_cost_multiplier": 0.65,
+    "yield_per_sqm": 2.88,
+    "market_price_per_kg": 0.74,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.89
+  },
+  "midnight jalapeno lentil": {
+    "seed_cost_multiplier": 2.17,
+    "yield_per_sqm": 5.08,
+    "market_price_per_kg": 2.69,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.09
+  },
+  "alpine roma lentil": {
+    "seed_cost_multiplier": 1.24,
+    "yield_per_sqm": 1.44,
+    "market_price_per_kg": 4.39,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.33
+  },
+  "wild globe lentil": {
+    "seed_cost_multiplier": 0.92,
+    "yield_per_sqm": 3.53,
+    "market_price_per_kg": 2.1,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.08
+  },
+  "dwarf nantes lentil": {
+    "seed_cost_multiplier": 2.38,
+    "yield_per_sqm": 5.08,
+    "market_price_per_kg": 4.29,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.91
+  },
+  "late sweet lentil": {
+    "seed_cost_multiplier": 1.69,
+    "yield_per_sqm": 3.9,
+    "market_price_per_kg": 3.02,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.34
+  },
+  "winter long lentil": {
+    "seed_cost_multiplier": 1.36,
+    "yield_per_sqm": 2.03,
+    "market_price_per_kg": 2.48,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.42
+  },
+  "urban roma lentil": {
+    "seed_cost_multiplier": 2.44,
+    "yield_per_sqm": 4.51,
+    "market_price_per_kg": 0.71,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.91
+  },
+  "organic yukon lentil": {
+    "seed_cost_multiplier": 1.33,
+    "yield_per_sqm": 1.69,
+    "market_price_per_kg": 3.1,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.02
+  },
+  "lime": {
+    "seed_cost_multiplier": 1.06,
+    "yield_per_sqm": 1.26,
+    "market_price_per_kg": 1.65,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.27
+  },
+  "heirloom white lime": {
+    "seed_cost_multiplier": 2.21,
+    "yield_per_sqm": 5.71,
+    "market_price_per_kg": 3.66,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.08
+  },
+  "early beefsteak lime": {
+    "seed_cost_multiplier": 1.6,
+    "yield_per_sqm": 1.04,
+    "market_price_per_kg": 1.63,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.36
+  },
+  "valley bell lime": {
+    "seed_cost_multiplier": 0.81,
+    "yield_per_sqm": 0.85,
+    "market_price_per_kg": 1.55,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.79
+  },
+  "crimson round lime": {
+    "seed_cost_multiplier": 0.76,
+    "yield_per_sqm": 4.22,
+    "market_price_per_kg": 3.29,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.74
+  },
+  "hybrid beefsteak lime": {
+    "seed_cost_multiplier": 2.44,
+    "yield_per_sqm": 1.05,
+    "market_price_per_kg": 3.88,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.35
+  },
+  "summer imperator lime": {
+    "seed_cost_multiplier": 1.61,
+    "yield_per_sqm": 0.9,
+    "market_price_per_kg": 3.65,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.97
+  },
+  "sweet nantes lime": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 4.08,
+    "market_price_per_kg": 1.98,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.98
+  },
+  "spicy short lime": {
+    "seed_cost_multiplier": 1.71,
+    "yield_per_sqm": 0.78,
+    "market_price_per_kg": 3.21,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.05
+  },
+  "early jalapeno lime": {
+    "seed_cost_multiplier": 1.18,
+    "yield_per_sqm": 3.46,
+    "market_price_per_kg": 2.96,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.86
+  },
+  "macadamia": {
+    "seed_cost_multiplier": 1.79,
+    "yield_per_sqm": 4.47,
+    "market_price_per_kg": 4.15,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.38
+  },
+  "summer white macadamia": {
+    "seed_cost_multiplier": 0.99,
+    "yield_per_sqm": 5.64,
+    "market_price_per_kg": 3.6,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.11
+  },
+  "crimson nantes macadamia": {
+    "seed_cost_multiplier": 1.05,
+    "yield_per_sqm": 0.92,
+    "market_price_per_kg": 0.52,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.8
+  },
+  "crisp globe macadamia": {
+    "seed_cost_multiplier": 1.32,
+    "yield_per_sqm": 4.4,
+    "market_price_per_kg": 2.57,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.03
+  },
+  "midnight jalapeno macadamia": {
+    "seed_cost_multiplier": 2.28,
+    "yield_per_sqm": 1.83,
+    "market_price_per_kg": 4.51,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.87
+  },
+  "royal short macadamia": {
+    "seed_cost_multiplier": 0.7,
+    "yield_per_sqm": 4.94,
+    "market_price_per_kg": 1.19,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.76
+  },
+  "early long macadamia": {
+    "seed_cost_multiplier": 2.02,
+    "yield_per_sqm": 1.23,
+    "market_price_per_kg": 3.06,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.7
+  },
+  "urban red macadamia": {
+    "seed_cost_multiplier": 0.75,
+    "yield_per_sqm": 0.9,
+    "market_price_per_kg": 2.9,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.41
+  },
+  "golden baby macadamia": {
+    "seed_cost_multiplier": 2.33,
+    "yield_per_sqm": 3.65,
+    "market_price_per_kg": 3.33,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.49
+  },
+  "royal beefsteak macadamia": {
+    "seed_cost_multiplier": 1.64,
+    "yield_per_sqm": 2.0,
+    "market_price_per_kg": 1.01,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.15
+  },
+  "mango": {
+    "seed_cost_multiplier": 2.35,
+    "yield_per_sqm": 4.3,
+    "market_price_per_kg": 2.19,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.22
+  },
+  "alpine danvers mango": {
+    "seed_cost_multiplier": 1.57,
+    "yield_per_sqm": 2.05,
+    "market_price_per_kg": 4.54,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.22
+  },
+  "summer romaine mango": {
+    "seed_cost_multiplier": 0.9,
+    "yield_per_sqm": 4.8,
+    "market_price_per_kg": 3.46,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.92
+  },
+  "dwarf romaine mango": {
+    "seed_cost_multiplier": 2.29,
+    "yield_per_sqm": 3.48,
+    "market_price_per_kg": 3.56,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.05
+  },
+  "dwarf jalapeno mango": {
+    "seed_cost_multiplier": 0.68,
+    "yield_per_sqm": 3.96,
+    "market_price_per_kg": 2.18,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.84
+  },
+  "giant baby mango": {
+    "seed_cost_multiplier": 2.5,
+    "yield_per_sqm": 2.44,
+    "market_price_per_kg": 3.3,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.33
+  },
+  "sweet roma mango": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 4.26,
+    "market_price_per_kg": 2.56,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.38
+  },
+  "late butterhead mango": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 2.98,
+    "market_price_per_kg": 3.61,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.87
+  },
+  "emerald habanero mango": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 3.09,
+    "market_price_per_kg": 4.87,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.33
+  },
+  "summer white mango": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 5.03,
+    "market_price_per_kg": 1.62,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.37
+  },
+  "mint": {
+    "seed_cost_multiplier": 1.78,
+    "yield_per_sqm": 2.0,
+    "market_price_per_kg": 2.44,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.86
+  },
+  "golden round mint": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 1.07,
+    "market_price_per_kg": 3.83,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.46
+  },
+  "desert romaine mint": {
+    "seed_cost_multiplier": 1.57,
+    "yield_per_sqm": 5.89,
+    "market_price_per_kg": 3.86,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.78
+  },
+  "urban long mint": {
+    "seed_cost_multiplier": 0.91,
+    "yield_per_sqm": 3.05,
+    "market_price_per_kg": 3.33,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.31
+  },
+  "urban red mint": {
+    "seed_cost_multiplier": 1.21,
+    "yield_per_sqm": 0.78,
+    "market_price_per_kg": 1.72,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.7
+  },
+  "sunrise bell mint": {
+    "seed_cost_multiplier": 2.38,
+    "yield_per_sqm": 2.33,
+    "market_price_per_kg": 3.81,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.25
+  },
+  "sweet russet mint": {
+    "seed_cost_multiplier": 1.89,
+    "yield_per_sqm": 4.15,
+    "market_price_per_kg": 0.63,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.44
+  },
+  "giant danvers mint": {
+    "seed_cost_multiplier": 0.51,
+    "yield_per_sqm": 1.14,
+    "market_price_per_kg": 4.63,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.3
+  },
+  "heirloom savoy mint": {
+    "seed_cost_multiplier": 0.66,
+    "yield_per_sqm": 5.09,
+    "market_price_per_kg": 3.72,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.1
+  },
+  "desert white mint": {
+    "seed_cost_multiplier": 1.69,
+    "yield_per_sqm": 5.44,
+    "market_price_per_kg": 1.65,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.02
+  },
+  "mustard": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 2.46,
+    "market_price_per_kg": 1.97,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.46
+  },
+  "urban jalapeno mustard": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 0.63,
+    "market_price_per_kg": 3.03,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.48
+  },
+  "giant sweet mustard": {
+    "seed_cost_multiplier": 1.67,
+    "yield_per_sqm": 2.05,
+    "market_price_per_kg": 3.11,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.12
+  },
+  "sweet cherry mustard": {
+    "seed_cost_multiplier": 1.6,
+    "yield_per_sqm": 1.24,
+    "market_price_per_kg": 1.26,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.17
+  },
+  "winter bell mustard": {
+    "seed_cost_multiplier": 0.93,
+    "yield_per_sqm": 3.33,
+    "market_price_per_kg": 4.85,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.38
+  },
+  "late iceberg mustard": {
+    "seed_cost_multiplier": 1.82,
+    "yield_per_sqm": 3.31,
+    "market_price_per_kg": 3.44,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.42
+  },
+  "summer cherry mustard": {
+    "seed_cost_multiplier": 0.61,
+    "yield_per_sqm": 1.29,
+    "market_price_per_kg": 1.09,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.44
+  },
+  "heirloom nantes mustard": {
+    "seed_cost_multiplier": 1.19,
+    "yield_per_sqm": 2.13,
+    "market_price_per_kg": 2.97,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.82
+  },
+  "sunrise red mustard": {
+    "seed_cost_multiplier": 2.49,
+    "yield_per_sqm": 1.31,
+    "market_price_per_kg": 2.75,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.84
+  },
+  "golden sweet mustard": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 1.75,
+    "market_price_per_kg": 4.6,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.19
+  },
+  "oats": {
+    "seed_cost_multiplier": 1.4,
+    "yield_per_sqm": 0.73,
+    "market_price_per_kg": 2.54,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.9
+  },
+  "sunrise baby oats": {
+    "seed_cost_multiplier": 0.51,
+    "yield_per_sqm": 2.56,
+    "market_price_per_kg": 1.83,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.73
+  },
+  "sunrise bell oats": {
+    "seed_cost_multiplier": 0.52,
+    "yield_per_sqm": 5.67,
+    "market_price_per_kg": 4.23,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.5
+  },
+  "coastal danvers oats": {
+    "seed_cost_multiplier": 0.64,
+    "yield_per_sqm": 2.3,
+    "market_price_per_kg": 3.84,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.15
+  },
+  "emerald cherry oats": {
+    "seed_cost_multiplier": 0.87,
+    "yield_per_sqm": 3.3,
+    "market_price_per_kg": 2.76,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.79
+  },
+  "valley round oats": {
+    "seed_cost_multiplier": 1.45,
+    "yield_per_sqm": 5.06,
+    "market_price_per_kg": 1.35,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.34
+  },
+  "late iceberg oats": {
+    "seed_cost_multiplier": 2.41,
+    "yield_per_sqm": 2.78,
+    "market_price_per_kg": 1.84,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.88
+  },
+  "tender round oats": {
+    "seed_cost_multiplier": 2.16,
+    "yield_per_sqm": 0.62,
+    "market_price_per_kg": 0.77,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.45
+  },
+  "tender iceberg oats": {
+    "seed_cost_multiplier": 1.06,
+    "yield_per_sqm": 4.64,
+    "market_price_per_kg": 0.81,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.45
+  },
+  "heirloom red oats": {
+    "seed_cost_multiplier": 0.69,
+    "yield_per_sqm": 2.8,
+    "market_price_per_kg": 0.74,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.3
+  },
+  "olive": {
+    "seed_cost_multiplier": 2.26,
+    "yield_per_sqm": 2.99,
+    "market_price_per_kg": 1.13,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.02
+  },
+  "early round olive": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 1.42,
+    "market_price_per_kg": 1.76,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.8
+  },
+  "dwarf imperator olive": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 4.75,
+    "market_price_per_kg": 4.42,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.14
+  },
+  "urban butterhead olive": {
+    "seed_cost_multiplier": 1.6,
+    "yield_per_sqm": 5.24,
+    "market_price_per_kg": 3.66,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.27
+  },
+  "sunrise iceberg olive": {
+    "seed_cost_multiplier": 0.68,
+    "yield_per_sqm": 5.64,
+    "market_price_per_kg": 2.88,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.31
+  },
+  "alpine cherry olive": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 0.66,
+    "market_price_per_kg": 3.24,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.45
+  },
+  "wild iceberg olive": {
+    "seed_cost_multiplier": 0.69,
+    "yield_per_sqm": 2.45,
+    "market_price_per_kg": 1.53,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.01
+  },
+  "crimson globe olive": {
+    "seed_cost_multiplier": 0.79,
+    "yield_per_sqm": 3.58,
+    "market_price_per_kg": 4.73,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.93
+  },
+  "hybrid red olive": {
+    "seed_cost_multiplier": 1.39,
+    "yield_per_sqm": 4.4,
+    "market_price_per_kg": 4.06,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.24
+  },
+  "golden red olive": {
+    "seed_cost_multiplier": 0.98,
+    "yield_per_sqm": 2.95,
+    "market_price_per_kg": 4.33,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.33
+  },
+  "orange": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 4.62,
+    "market_price_per_kg": 4.06,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.29
+  },
+  "organic yukon orange": {
+    "seed_cost_multiplier": 1.62,
+    "yield_per_sqm": 0.64,
+    "market_price_per_kg": 1.63,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.39
+  },
+  "sunrise yukon orange": {
+    "seed_cost_multiplier": 1.29,
+    "yield_per_sqm": 1.84,
+    "market_price_per_kg": 2.52,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.36
+  },
+  "urban long orange": {
+    "seed_cost_multiplier": 0.7,
+    "yield_per_sqm": 4.4,
+    "market_price_per_kg": 0.91,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.46
+  },
+  "crimson red orange": {
+    "seed_cost_multiplier": 1.72,
+    "yield_per_sqm": 1.51,
+    "market_price_per_kg": 4.6,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.05
+  },
+  "summer red orange": {
+    "seed_cost_multiplier": 2.24,
+    "yield_per_sqm": 2.57,
+    "market_price_per_kg": 1.35,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.34
+  },
+  "wild habanero orange": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 4.39,
+    "market_price_per_kg": 0.51,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.19
+  },
+  "giant russet orange": {
+    "seed_cost_multiplier": 2.46,
+    "yield_per_sqm": 4.61,
+    "market_price_per_kg": 1.97,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.43
+  },
+  "organic danvers orange": {
+    "seed_cost_multiplier": 1.67,
+    "yield_per_sqm": 2.94,
+    "market_price_per_kg": 3.64,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.73
+  },
+  "desert imperator orange": {
+    "seed_cost_multiplier": 2.36,
+    "yield_per_sqm": 3.29,
+    "market_price_per_kg": 2.6,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.21
+  },
+  "oregano": {
+    "seed_cost_multiplier": 2.4,
+    "yield_per_sqm": 2.13,
+    "market_price_per_kg": 2.27,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.21
+  },
+  "crimson yellow oregano": {
+    "seed_cost_multiplier": 0.65,
+    "yield_per_sqm": 2.66,
+    "market_price_per_kg": 4.19,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.03
+  },
+  "golden danvers oregano": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 3.89,
+    "market_price_per_kg": 2.7,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.79
+  },
+  "late russet oregano": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 1.65,
+    "market_price_per_kg": 5.0,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.18
+  },
+  "emerald short oregano": {
+    "seed_cost_multiplier": 0.66,
+    "yield_per_sqm": 3.74,
+    "market_price_per_kg": 4.21,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.3
+  },
+  "coastal yukon oregano": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 2.73,
+    "market_price_per_kg": 1.88,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.04
+  },
+  "royal butterhead oregano": {
+    "seed_cost_multiplier": 0.79,
+    "yield_per_sqm": 2.63,
+    "market_price_per_kg": 2.73,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.29
+  },
+  "hybrid yukon oregano": {
+    "seed_cost_multiplier": 0.71,
+    "yield_per_sqm": 2.63,
+    "market_price_per_kg": 2.04,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.82
+  },
+  "winter habanero oregano": {
+    "seed_cost_multiplier": 1.76,
+    "yield_per_sqm": 5.4,
+    "market_price_per_kg": 2.76,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.3
+  },
+  "organic short oregano": {
+    "seed_cost_multiplier": 0.96,
+    "yield_per_sqm": 3.44,
+    "market_price_per_kg": 4.38,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.22
+  },
+  "papaya": {
+    "seed_cost_multiplier": 0.97,
+    "yield_per_sqm": 3.3,
+    "market_price_per_kg": 2.61,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.08
+  },
+  "royal habanero papaya": {
+    "seed_cost_multiplier": 1.93,
+    "yield_per_sqm": 1.24,
+    "market_price_per_kg": 3.01,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.25
+  },
+  "dwarf beefsteak papaya": {
+    "seed_cost_multiplier": 1.16,
+    "yield_per_sqm": 1.1,
+    "market_price_per_kg": 3.88,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.31
+  },
+  "giant jalapeno papaya": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 0.75,
+    "market_price_per_kg": 2.31,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.71
+  },
+  "crimson yellow papaya": {
+    "seed_cost_multiplier": 2.38,
+    "yield_per_sqm": 1.12,
+    "market_price_per_kg": 2.94,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.25
+  },
+  "midnight savoy papaya": {
+    "seed_cost_multiplier": 1.2,
+    "yield_per_sqm": 4.74,
+    "market_price_per_kg": 1.83,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.79
+  },
+  "winter beefsteak papaya": {
+    "seed_cost_multiplier": 2.09,
+    "yield_per_sqm": 3.69,
+    "market_price_per_kg": 2.19,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.04
+  },
+  "hybrid long papaya": {
+    "seed_cost_multiplier": 0.51,
+    "yield_per_sqm": 4.43,
+    "market_price_per_kg": 1.71,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.98
+  },
+  "dwarf russet papaya": {
+    "seed_cost_multiplier": 0.52,
+    "yield_per_sqm": 1.98,
+    "market_price_per_kg": 3.16,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.27
+  },
+  "heirloom roma papaya": {
+    "seed_cost_multiplier": 1.3,
+    "yield_per_sqm": 1.81,
+    "market_price_per_kg": 0.51,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.98
+  },
+  "parsley": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 0.73,
+    "market_price_per_kg": 3.91,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.91
+  },
+  "heirloom sweet parsley": {
+    "seed_cost_multiplier": 0.54,
+    "yield_per_sqm": 0.7,
+    "market_price_per_kg": 2.58,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.83
+  },
+  "dwarf imperator parsley": {
+    "seed_cost_multiplier": 1.74,
+    "yield_per_sqm": 2.69,
+    "market_price_per_kg": 2.69,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.16
+  },
+  "midnight roma parsley": {
+    "seed_cost_multiplier": 0.7,
+    "yield_per_sqm": 0.88,
+    "market_price_per_kg": 4.11,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.19
+  },
+  "sweet baby parsley": {
+    "seed_cost_multiplier": 0.63,
+    "yield_per_sqm": 4.84,
+    "market_price_per_kg": 2.5,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.25
+  },
+  "royal habanero parsley": {
+    "seed_cost_multiplier": 1.7,
+    "yield_per_sqm": 1.86,
+    "market_price_per_kg": 1.58,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.09
+  },
+  "organic long parsley": {
+    "seed_cost_multiplier": 2.17,
+    "yield_per_sqm": 4.29,
+    "market_price_per_kg": 1.77,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.08
+  },
+  "early cherry parsley": {
+    "seed_cost_multiplier": 0.67,
+    "yield_per_sqm": 3.79,
+    "market_price_per_kg": 1.11,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.93
+  },
+  "wild jalapeno parsley": {
+    "seed_cost_multiplier": 2.3,
+    "yield_per_sqm": 1.62,
+    "market_price_per_kg": 2.83,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.76
+  },
+  "desert red parsley": {
+    "seed_cost_multiplier": 2.48,
+    "yield_per_sqm": 2.65,
+    "market_price_per_kg": 3.14,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.38
+  },
+  "parsnip": {
+    "seed_cost_multiplier": 1.93,
+    "yield_per_sqm": 3.75,
+    "market_price_per_kg": 2.37,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.8
+  },
+  "wild imperator parsnip": {
+    "seed_cost_multiplier": 1.3,
+    "yield_per_sqm": 5.53,
+    "market_price_per_kg": 2.71,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.48
+  },
+  "sunrise romaine parsnip": {
+    "seed_cost_multiplier": 1.38,
+    "yield_per_sqm": 4.88,
+    "market_price_per_kg": 2.53,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.35
+  },
+  "alpine white parsnip": {
+    "seed_cost_multiplier": 2.47,
+    "yield_per_sqm": 2.57,
+    "market_price_per_kg": 4.08,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.4
+  },
+  "summer white parsnip": {
+    "seed_cost_multiplier": 0.93,
+    "yield_per_sqm": 1.16,
+    "market_price_per_kg": 3.73,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.19
+  },
+  "golden baby parsnip": {
+    "seed_cost_multiplier": 1.35,
+    "yield_per_sqm": 4.25,
+    "market_price_per_kg": 1.25,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.22
+  },
+  "crimson nantes parsnip": {
+    "seed_cost_multiplier": 0.5,
+    "yield_per_sqm": 0.85,
+    "market_price_per_kg": 3.72,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.96
+  },
+  "golden red parsnip": {
+    "seed_cost_multiplier": 1.77,
+    "yield_per_sqm": 5.53,
+    "market_price_per_kg": 4.61,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.06
+  },
+  "early white parsnip": {
+    "seed_cost_multiplier": 2.37,
+    "yield_per_sqm": 3.25,
+    "market_price_per_kg": 2.53,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.32
+  },
+  "winter round parsnip": {
+    "seed_cost_multiplier": 1.73,
+    "yield_per_sqm": 5.14,
+    "market_price_per_kg": 1.11,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.28
+  },
+  "pea": {
+    "seed_cost_multiplier": 2.27,
+    "yield_per_sqm": 2.31,
+    "market_price_per_kg": 4.51,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.4
+  },
+  "alpine butterhead pea": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 1.9,
+    "market_price_per_kg": 3.74,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.17
+  },
+  "hybrid bell pea": {
+    "seed_cost_multiplier": 2.12,
+    "yield_per_sqm": 4.95,
+    "market_price_per_kg": 3.18,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.84
+  },
+  "emerald yellow pea": {
+    "seed_cost_multiplier": 1.41,
+    "yield_per_sqm": 1.78,
+    "market_price_per_kg": 2.06,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.86
+  },
+  "urban russet pea": {
+    "seed_cost_multiplier": 0.5,
+    "yield_per_sqm": 3.25,
+    "market_price_per_kg": 4.7,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.1
+  },
+  "dwarf jalapeno pea": {
+    "seed_cost_multiplier": 2.16,
+    "yield_per_sqm": 4.12,
+    "market_price_per_kg": 3.18,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.84
+  },
+  "winter yukon pea": {
+    "seed_cost_multiplier": 1.71,
+    "yield_per_sqm": 3.47,
+    "market_price_per_kg": 3.81,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.95
+  },
+  "tender long pea": {
+    "seed_cost_multiplier": 1.61,
+    "yield_per_sqm": 0.56,
+    "market_price_per_kg": 1.47,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.77
+  },
+  "wild iceberg pea": {
+    "seed_cost_multiplier": 2.44,
+    "yield_per_sqm": 3.34,
+    "market_price_per_kg": 1.37,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.29
+  },
+  "winter red pea": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 0.59,
+    "market_price_per_kg": 4.61,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.42
+  },
+  "peach": {
+    "seed_cost_multiplier": 1.07,
+    "yield_per_sqm": 3.44,
+    "market_price_per_kg": 3.61,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.44
+  },
+  "tender baby peach": {
+    "seed_cost_multiplier": 1.83,
+    "yield_per_sqm": 2.64,
+    "market_price_per_kg": 0.62,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.84
+  },
+  "organic sweet peach": {
+    "seed_cost_multiplier": 2.07,
+    "yield_per_sqm": 3.13,
+    "market_price_per_kg": 2.26,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.74
+  },
+  "hybrid yukon peach": {
+    "seed_cost_multiplier": 1.09,
+    "yield_per_sqm": 2.47,
+    "market_price_per_kg": 2.4,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.89
+  },
+  "organic romaine peach": {
+    "seed_cost_multiplier": 1.29,
+    "yield_per_sqm": 3.85,
+    "market_price_per_kg": 1.47,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.2
+  },
+  "winter cherry peach": {
+    "seed_cost_multiplier": 0.52,
+    "yield_per_sqm": 0.75,
+    "market_price_per_kg": 0.92,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.96
+  },
+  "emerald globe peach": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 2.31,
+    "market_price_per_kg": 1.51,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.34
+  },
+  "royal russet peach": {
+    "seed_cost_multiplier": 1.81,
+    "yield_per_sqm": 3.98,
+    "market_price_per_kg": 2.95,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.99
+  },
+  "desert round peach": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 3.49,
+    "market_price_per_kg": 4.51,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.77
+  },
+  "wild long peach": {
+    "seed_cost_multiplier": 0.71,
+    "yield_per_sqm": 0.96,
+    "market_price_per_kg": 4.08,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.18
+  },
+  "peanut": {
+    "seed_cost_multiplier": 2.19,
+    "yield_per_sqm": 1.6,
+    "market_price_per_kg": 2.98,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.74
+  },
+  "late iceberg peanut": {
+    "seed_cost_multiplier": 1.71,
+    "yield_per_sqm": 5.63,
+    "market_price_per_kg": 2.41,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.16
+  },
+  "sweet baby peanut": {
+    "seed_cost_multiplier": 1.18,
+    "yield_per_sqm": 6.0,
+    "market_price_per_kg": 4.06,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.38
+  },
+  "valley white peanut": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 2.92,
+    "market_price_per_kg": 2.46,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.3
+  },
+  "midnight savoy peanut": {
+    "seed_cost_multiplier": 0.59,
+    "yield_per_sqm": 3.44,
+    "market_price_per_kg": 3.58,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.87
+  },
+  "hybrid bell peanut": {
+    "seed_cost_multiplier": 0.67,
+    "yield_per_sqm": 3.71,
+    "market_price_per_kg": 4.98,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.75
+  },
+  "royal russet peanut": {
+    "seed_cost_multiplier": 2.35,
+    "yield_per_sqm": 5.01,
+    "market_price_per_kg": 1.38,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.84
+  },
+  "early red peanut": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 1.97,
+    "market_price_per_kg": 4.66,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.77
+  },
+  "tender butterhead peanut": {
+    "seed_cost_multiplier": 2.11,
+    "yield_per_sqm": 2.36,
+    "market_price_per_kg": 3.02,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.8
+  },
+  "wild round peanut": {
+    "seed_cost_multiplier": 1.78,
+    "yield_per_sqm": 0.82,
+    "market_price_per_kg": 1.53,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.91
+  },
+  "pear": {
+    "seed_cost_multiplier": 0.91,
+    "yield_per_sqm": 2.06,
+    "market_price_per_kg": 2.4,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.8
+  },
+  "giant bell pear": {
+    "seed_cost_multiplier": 1.71,
+    "yield_per_sqm": 2.44,
+    "market_price_per_kg": 4.52,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.72
+  },
+  "golden imperator pear": {
+    "seed_cost_multiplier": 2.2,
+    "yield_per_sqm": 5.02,
+    "market_price_per_kg": 2.03,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.97
+  },
+  "tender jalapeno pear": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 4.48,
+    "market_price_per_kg": 2.21,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.27
+  },
+  "tender roma pear": {
+    "seed_cost_multiplier": 2.46,
+    "yield_per_sqm": 1.95,
+    "market_price_per_kg": 1.7,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.05
+  },
+  "sunrise beefsteak pear": {
+    "seed_cost_multiplier": 1.87,
+    "yield_per_sqm": 3.62,
+    "market_price_per_kg": 3.95,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.2
+  },
+  "midnight yukon pear": {
+    "seed_cost_multiplier": 1.3,
+    "yield_per_sqm": 3.85,
+    "market_price_per_kg": 2.52,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.46
+  },
+  "hybrid yellow pear": {
+    "seed_cost_multiplier": 1.17,
+    "yield_per_sqm": 5.52,
+    "market_price_per_kg": 1.25,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.1
+  },
+  "organic baby pear": {
+    "seed_cost_multiplier": 1.95,
+    "yield_per_sqm": 3.33,
+    "market_price_per_kg": 2.86,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.8
+  },
+  "organic roma pear": {
+    "seed_cost_multiplier": 1.16,
+    "yield_per_sqm": 3.58,
+    "market_price_per_kg": 4.7,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.3
+  },
+  "pecan": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 1.6,
+    "market_price_per_kg": 1.12,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.46
+  },
+  "coastal russet pecan": {
+    "seed_cost_multiplier": 1.86,
+    "yield_per_sqm": 5.05,
+    "market_price_per_kg": 1.26,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.32
+  },
+  "sunrise savoy pecan": {
+    "seed_cost_multiplier": 1.76,
+    "yield_per_sqm": 5.54,
+    "market_price_per_kg": 0.78,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.82
+  },
+  "dwarf yellow pecan": {
+    "seed_cost_multiplier": 2.38,
+    "yield_per_sqm": 3.75,
+    "market_price_per_kg": 1.47,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.4
+  },
+  "winter baby pecan": {
+    "seed_cost_multiplier": 2.03,
+    "yield_per_sqm": 5.58,
+    "market_price_per_kg": 1.4,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.17
+  },
+  "desert sweet pecan": {
+    "seed_cost_multiplier": 1.43,
+    "yield_per_sqm": 0.73,
+    "market_price_per_kg": 2.3,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.91
+  },
+  "golden butterhead pecan": {
+    "seed_cost_multiplier": 1.67,
+    "yield_per_sqm": 1.76,
+    "market_price_per_kg": 4.11,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.26
+  },
+  "urban romaine pecan": {
+    "seed_cost_multiplier": 2.29,
+    "yield_per_sqm": 5.82,
+    "market_price_per_kg": 0.93,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.13
+  },
+  "urban bell pecan": {
+    "seed_cost_multiplier": 1.02,
+    "yield_per_sqm": 0.99,
+    "market_price_per_kg": 2.61,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.71
+  },
+  "organic short pecan": {
+    "seed_cost_multiplier": 1.8,
+    "yield_per_sqm": 2.91,
+    "market_price_per_kg": 0.59,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.39
+  },
+  "pineapple": {
+    "seed_cost_multiplier": 0.77,
+    "yield_per_sqm": 2.74,
+    "market_price_per_kg": 4.38,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.85
+  },
+  "sunrise bell pineapple": {
+    "seed_cost_multiplier": 2.1,
+    "yield_per_sqm": 0.87,
+    "market_price_per_kg": 2.26,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.99
+  },
+  "late roma pineapple": {
+    "seed_cost_multiplier": 1.75,
+    "yield_per_sqm": 3.62,
+    "market_price_per_kg": 1.43,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.04
+  },
+  "valley jalapeno pineapple": {
+    "seed_cost_multiplier": 1.57,
+    "yield_per_sqm": 3.74,
+    "market_price_per_kg": 5.0,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.03
+  },
+  "sweet jalapeno pineapple": {
+    "seed_cost_multiplier": 0.81,
+    "yield_per_sqm": 3.53,
+    "market_price_per_kg": 2.48,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.72
+  },
+  "heirloom cherry pineapple": {
+    "seed_cost_multiplier": 2.0,
+    "yield_per_sqm": 1.99,
+    "market_price_per_kg": 0.97,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.44
+  },
+  "dwarf roma pineapple": {
+    "seed_cost_multiplier": 1.04,
+    "yield_per_sqm": 5.1,
+    "market_price_per_kg": 4.98,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.73
+  },
+  "heirloom butterhead pineapple": {
+    "seed_cost_multiplier": 2.44,
+    "yield_per_sqm": 3.53,
+    "market_price_per_kg": 0.58,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.19
+  },
+  "spicy nantes pineapple": {
+    "seed_cost_multiplier": 2.08,
+    "yield_per_sqm": 2.57,
+    "market_price_per_kg": 3.47,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.04
+  },
+  "tender long pineapple": {
+    "seed_cost_multiplier": 1.65,
+    "yield_per_sqm": 5.86,
+    "market_price_per_kg": 1.79,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.76
+  },
+  "pistachio": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 1.11,
+    "market_price_per_kg": 1.24,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.78
+  },
+  "golden russet pistachio": {
+    "seed_cost_multiplier": 0.55,
+    "yield_per_sqm": 5.67,
+    "market_price_per_kg": 4.27,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.02
+  },
+  "crimson bell pistachio": {
+    "seed_cost_multiplier": 1.74,
+    "yield_per_sqm": 5.85,
+    "market_price_per_kg": 3.33,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.24
+  },
+  "tender globe pistachio": {
+    "seed_cost_multiplier": 1.5,
+    "yield_per_sqm": 2.56,
+    "market_price_per_kg": 3.75,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.94
+  },
+  "royal russet pistachio": {
+    "seed_cost_multiplier": 1.48,
+    "yield_per_sqm": 2.2,
+    "market_price_per_kg": 2.98,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.0
+  },
+  "valley butterhead pistachio": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 3.36,
+    "market_price_per_kg": 4.66,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.22
+  },
+  "tender butterhead pistachio": {
+    "seed_cost_multiplier": 1.99,
+    "yield_per_sqm": 4.31,
+    "market_price_per_kg": 3.78,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.26
+  },
+  "midnight short pistachio": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 1.36,
+    "market_price_per_kg": 2.8,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.28
+  },
+  "desert yellow pistachio": {
+    "seed_cost_multiplier": 1.19,
+    "yield_per_sqm": 3.38,
+    "market_price_per_kg": 3.5,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.03
+  },
+  "sunrise short pistachio": {
+    "seed_cost_multiplier": 0.79,
+    "yield_per_sqm": 4.49,
+    "market_price_per_kg": 2.33,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.29
+  },
+  "plum": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 0.89,
+    "market_price_per_kg": 4.83,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.3
+  },
+  "late baby plum": {
+    "seed_cost_multiplier": 1.74,
+    "yield_per_sqm": 5.12,
+    "market_price_per_kg": 4.34,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.05
+  },
+  "spicy yellow plum": {
+    "seed_cost_multiplier": 2.07,
+    "yield_per_sqm": 3.19,
+    "market_price_per_kg": 3.73,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.4
+  },
+  "valley romaine plum": {
+    "seed_cost_multiplier": 1.33,
+    "yield_per_sqm": 3.34,
+    "market_price_per_kg": 1.92,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.06
+  },
+  "winter savoy plum": {
+    "seed_cost_multiplier": 1.87,
+    "yield_per_sqm": 3.53,
+    "market_price_per_kg": 3.64,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.14
+  },
+  "winter danvers plum": {
+    "seed_cost_multiplier": 0.62,
+    "yield_per_sqm": 2.99,
+    "market_price_per_kg": 2.44,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.85
+  },
+  "emerald bell plum": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 1.76,
+    "market_price_per_kg": 1.76,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.46
+  },
+  "urban sweet plum": {
+    "seed_cost_multiplier": 2.42,
+    "yield_per_sqm": 1.42,
+    "market_price_per_kg": 3.59,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.71
+  },
+  "sweet nantes plum": {
+    "seed_cost_multiplier": 1.32,
+    "yield_per_sqm": 1.82,
+    "market_price_per_kg": 0.94,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.78
+  },
+  "giant savoy plum": {
+    "seed_cost_multiplier": 1.62,
+    "yield_per_sqm": 4.58,
+    "market_price_per_kg": 1.48,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.93
+  },
+  "pomegranate": {
+    "seed_cost_multiplier": 0.53,
+    "yield_per_sqm": 0.86,
+    "market_price_per_kg": 3.57,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.12
+  },
+  "sunrise long pomegranate": {
+    "seed_cost_multiplier": 2.26,
+    "yield_per_sqm": 4.49,
+    "market_price_per_kg": 1.62,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.95
+  },
+  "dwarf jalapeno pomegranate": {
+    "seed_cost_multiplier": 2.49,
+    "yield_per_sqm": 3.89,
+    "market_price_per_kg": 2.61,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.25
+  },
+  "emerald yukon pomegranate": {
+    "seed_cost_multiplier": 0.75,
+    "yield_per_sqm": 3.23,
+    "market_price_per_kg": 3.15,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.93
+  },
+  "crimson iceberg pomegranate": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 1.2,
+    "market_price_per_kg": 1.24,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.95
+  },
+  "late cherry pomegranate": {
+    "seed_cost_multiplier": 1.58,
+    "yield_per_sqm": 5.75,
+    "market_price_per_kg": 2.98,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.42
+  },
+  "early savoy pomegranate": {
+    "seed_cost_multiplier": 1.48,
+    "yield_per_sqm": 1.75,
+    "market_price_per_kg": 3.68,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.71
+  },
+  "dwarf red pomegranate": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 2.29,
+    "market_price_per_kg": 2.61,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.05
+  },
+  "early short pomegranate": {
+    "seed_cost_multiplier": 1.94,
+    "yield_per_sqm": 1.49,
+    "market_price_per_kg": 4.29,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.85
+  },
+  "early long pomegranate": {
+    "seed_cost_multiplier": 1.74,
+    "yield_per_sqm": 5.09,
+    "market_price_per_kg": 3.35,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.99
+  },
+  "quinoa": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 2.3,
+    "market_price_per_kg": 1.6,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.94
+  },
+  "organic nantes quinoa": {
+    "seed_cost_multiplier": 1.48,
+    "yield_per_sqm": 1.26,
+    "market_price_per_kg": 3.04,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.24
+  },
+  "giant sweet quinoa": {
+    "seed_cost_multiplier": 1.54,
+    "yield_per_sqm": 5.15,
+    "market_price_per_kg": 1.64,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.7
+  },
+  "sunrise sweet quinoa": {
+    "seed_cost_multiplier": 1.78,
+    "yield_per_sqm": 3.31,
+    "market_price_per_kg": 2.08,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.76
+  },
+  "hybrid butterhead quinoa": {
+    "seed_cost_multiplier": 1.8,
+    "yield_per_sqm": 2.69,
+    "market_price_per_kg": 3.71,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.11
+  },
+  "tender globe quinoa": {
+    "seed_cost_multiplier": 2.15,
+    "yield_per_sqm": 5.31,
+    "market_price_per_kg": 2.34,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.99
+  },
+  "royal white quinoa": {
+    "seed_cost_multiplier": 1.75,
+    "yield_per_sqm": 1.0,
+    "market_price_per_kg": 1.91,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.37
+  },
+  "emerald habanero quinoa": {
+    "seed_cost_multiplier": 0.98,
+    "yield_per_sqm": 4.81,
+    "market_price_per_kg": 0.85,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.94
+  },
+  "wild globe quinoa": {
+    "seed_cost_multiplier": 0.6,
+    "yield_per_sqm": 5.35,
+    "market_price_per_kg": 2.94,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.45
+  },
+  "alpine round quinoa": {
+    "seed_cost_multiplier": 2.19,
+    "yield_per_sqm": 4.89,
+    "market_price_per_kg": 1.63,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.98
+  },
+  "radish": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 2.97,
+    "market_price_per_kg": 1.64,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.48
+  },
+  "sweet short radish": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 5.97,
+    "market_price_per_kg": 2.79,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.17
+  },
+  "coastal sweet radish": {
+    "seed_cost_multiplier": 1.61,
+    "yield_per_sqm": 4.02,
+    "market_price_per_kg": 1.09,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.3
+  },
+  "hybrid russet radish": {
+    "seed_cost_multiplier": 0.94,
+    "yield_per_sqm": 5.31,
+    "market_price_per_kg": 3.51,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.0
+  },
+  "tender roma radish": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 4.77,
+    "market_price_per_kg": 3.33,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.95
+  },
+  "urban yukon radish": {
+    "seed_cost_multiplier": 0.84,
+    "yield_per_sqm": 3.77,
+    "market_price_per_kg": 0.87,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.01
+  },
+  "organic imperator radish": {
+    "seed_cost_multiplier": 2.0,
+    "yield_per_sqm": 4.16,
+    "market_price_per_kg": 1.91,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.44
+  },
+  "urban globe radish": {
+    "seed_cost_multiplier": 2.26,
+    "yield_per_sqm": 0.65,
+    "market_price_per_kg": 0.85,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.15
+  },
+  "sunrise red radish": {
+    "seed_cost_multiplier": 1.85,
+    "yield_per_sqm": 5.71,
+    "market_price_per_kg": 2.52,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.72
+  },
+  "desert nantes radish": {
+    "seed_cost_multiplier": 0.82,
+    "yield_per_sqm": 5.06,
+    "market_price_per_kg": 2.93,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.16
+  },
+  "raspberry": {
+    "seed_cost_multiplier": 1.08,
+    "yield_per_sqm": 3.19,
+    "market_price_per_kg": 2.73,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.8
+  },
+  "early habanero raspberry": {
+    "seed_cost_multiplier": 1.72,
+    "yield_per_sqm": 5.76,
+    "market_price_per_kg": 4.17,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.13
+  },
+  "sweet danvers raspberry": {
+    "seed_cost_multiplier": 1.0,
+    "yield_per_sqm": 1.98,
+    "market_price_per_kg": 2.82,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.45
+  },
+  "midnight long raspberry": {
+    "seed_cost_multiplier": 0.85,
+    "yield_per_sqm": 5.22,
+    "market_price_per_kg": 4.23,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.13
+  },
+  "crimson yukon raspberry": {
+    "seed_cost_multiplier": 1.29,
+    "yield_per_sqm": 4.47,
+    "market_price_per_kg": 2.12,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.01
+  },
+  "crisp savoy raspberry": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 0.72,
+    "market_price_per_kg": 3.47,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.43
+  },
+  "desert jalapeno raspberry": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 4.48,
+    "market_price_per_kg": 4.83,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.02
+  },
+  "golden iceberg raspberry": {
+    "seed_cost_multiplier": 1.83,
+    "yield_per_sqm": 2.11,
+    "market_price_per_kg": 3.25,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.49
+  },
+  "late round raspberry": {
+    "seed_cost_multiplier": 2.17,
+    "yield_per_sqm": 2.73,
+    "market_price_per_kg": 3.93,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.04
+  },
+  "golden habanero raspberry": {
+    "seed_cost_multiplier": 1.59,
+    "yield_per_sqm": 5.17,
+    "market_price_per_kg": 3.05,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.32
+  },
+  "rosemary": {
+    "seed_cost_multiplier": 1.06,
+    "yield_per_sqm": 3.38,
+    "market_price_per_kg": 1.4,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.19
+  },
+  "royal roma rosemary": {
+    "seed_cost_multiplier": 0.9,
+    "yield_per_sqm": 2.93,
+    "market_price_per_kg": 3.05,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.94
+  },
+  "dwarf short rosemary": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 5.05,
+    "market_price_per_kg": 2.27,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.12
+  },
+  "sunrise sweet rosemary": {
+    "seed_cost_multiplier": 1.45,
+    "yield_per_sqm": 5.76,
+    "market_price_per_kg": 2.18,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.17
+  },
+  "midnight short rosemary": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 3.06,
+    "market_price_per_kg": 2.32,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.37
+  },
+  "golden yellow rosemary": {
+    "seed_cost_multiplier": 1.52,
+    "yield_per_sqm": 3.2,
+    "market_price_per_kg": 0.95,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.46
+  },
+  "wild sweet rosemary": {
+    "seed_cost_multiplier": 1.81,
+    "yield_per_sqm": 4.88,
+    "market_price_per_kg": 4.66,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.3
+  },
+  "crimson bell rosemary": {
+    "seed_cost_multiplier": 1.57,
+    "yield_per_sqm": 3.24,
+    "market_price_per_kg": 4.16,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.77
+  },
+  "sweet imperator rosemary": {
+    "seed_cost_multiplier": 1.32,
+    "yield_per_sqm": 5.48,
+    "market_price_per_kg": 4.29,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.78
+  },
+  "golden habanero rosemary": {
+    "seed_cost_multiplier": 2.32,
+    "yield_per_sqm": 4.54,
+    "market_price_per_kg": 2.33,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.14
+  },
+  "rye": {
+    "seed_cost_multiplier": 1.1,
+    "yield_per_sqm": 5.85,
+    "market_price_per_kg": 3.61,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.32
+  },
+  "sweet globe rye": {
+    "seed_cost_multiplier": 2.2,
+    "yield_per_sqm": 4.66,
+    "market_price_per_kg": 4.81,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.89
+  },
+  "giant habanero rye": {
+    "seed_cost_multiplier": 2.48,
+    "yield_per_sqm": 5.97,
+    "market_price_per_kg": 2.03,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.8
+  },
+  "crisp roma rye": {
+    "seed_cost_multiplier": 1.35,
+    "yield_per_sqm": 1.33,
+    "market_price_per_kg": 4.5,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.11
+  },
+  "spicy romaine rye": {
+    "seed_cost_multiplier": 1.75,
+    "yield_per_sqm": 3.7,
+    "market_price_per_kg": 3.4,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.84
+  },
+  "heirloom danvers rye": {
+    "seed_cost_multiplier": 2.3,
+    "yield_per_sqm": 0.55,
+    "market_price_per_kg": 4.2,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.21
+  },
+  "midnight yukon rye": {
+    "seed_cost_multiplier": 1.75,
+    "yield_per_sqm": 3.0,
+    "market_price_per_kg": 3.12,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.32
+  },
+  "crimson globe rye": {
+    "seed_cost_multiplier": 1.06,
+    "yield_per_sqm": 5.41,
+    "market_price_per_kg": 1.44,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.04
+  },
+  "late iceberg rye": {
+    "seed_cost_multiplier": 1.94,
+    "yield_per_sqm": 3.98,
+    "market_price_per_kg": 4.87,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.07
+  },
+  "desert short rye": {
+    "seed_cost_multiplier": 0.97,
+    "yield_per_sqm": 2.89,
+    "market_price_per_kg": 4.77,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.23
+  },
+  "saffron": {
+    "seed_cost_multiplier": 1.36,
+    "yield_per_sqm": 2.14,
+    "market_price_per_kg": 3.6,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.21
+  },
+  "midnight long saffron": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 1.18,
+    "market_price_per_kg": 1.64,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.16
+  },
+  "alpine nantes saffron": {
+    "seed_cost_multiplier": 2.02,
+    "yield_per_sqm": 2.96,
+    "market_price_per_kg": 3.93,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.46
+  },
+  "golden round saffron": {
+    "seed_cost_multiplier": 2.17,
+    "yield_per_sqm": 2.06,
+    "market_price_per_kg": 0.86,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.4
+  },
+  "dwarf red saffron": {
+    "seed_cost_multiplier": 1.81,
+    "yield_per_sqm": 2.99,
+    "market_price_per_kg": 2.98,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.19
+  },
+  "winter round saffron": {
+    "seed_cost_multiplier": 2.0,
+    "yield_per_sqm": 4.0,
+    "market_price_per_kg": 4.76,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.03
+  },
+  "dwarf sweet saffron": {
+    "seed_cost_multiplier": 0.51,
+    "yield_per_sqm": 1.3,
+    "market_price_per_kg": 4.1,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.91
+  },
+  "summer beefsteak saffron": {
+    "seed_cost_multiplier": 1.27,
+    "yield_per_sqm": 2.17,
+    "market_price_per_kg": 4.31,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.15
+  },
+  "sunrise danvers saffron": {
+    "seed_cost_multiplier": 1.87,
+    "yield_per_sqm": 3.27,
+    "market_price_per_kg": 3.0,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.07
+  },
+  "tender beefsteak saffron": {
+    "seed_cost_multiplier": 0.89,
+    "yield_per_sqm": 2.8,
+    "market_price_per_kg": 4.76,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.13
+  },
+  "sage": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 5.8,
+    "market_price_per_kg": 1.49,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.5
+  },
+  "wild jalapeno sage": {
+    "seed_cost_multiplier": 1.91,
+    "yield_per_sqm": 2.19,
+    "market_price_per_kg": 3.86,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.91
+  },
+  "early yellow sage": {
+    "seed_cost_multiplier": 1.75,
+    "yield_per_sqm": 5.56,
+    "market_price_per_kg": 2.38,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.39
+  },
+  "organic sweet sage": {
+    "seed_cost_multiplier": 1.6,
+    "yield_per_sqm": 0.64,
+    "market_price_per_kg": 1.85,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.1
+  },
+  "crisp yukon sage": {
+    "seed_cost_multiplier": 1.46,
+    "yield_per_sqm": 1.61,
+    "market_price_per_kg": 3.95,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.34
+  },
+  "sweet yukon sage": {
+    "seed_cost_multiplier": 2.04,
+    "yield_per_sqm": 4.77,
+    "market_price_per_kg": 2.92,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.09
+  },
+  "crisp nantes sage": {
+    "seed_cost_multiplier": 2.19,
+    "yield_per_sqm": 1.64,
+    "market_price_per_kg": 4.58,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.45
+  },
+  "sunrise yellow sage": {
+    "seed_cost_multiplier": 2.16,
+    "yield_per_sqm": 1.5,
+    "market_price_per_kg": 4.84,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.85
+  },
+  "valley globe sage": {
+    "seed_cost_multiplier": 2.28,
+    "yield_per_sqm": 3.28,
+    "market_price_per_kg": 2.68,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.35
+  },
+  "valley long sage": {
+    "seed_cost_multiplier": 2.36,
+    "yield_per_sqm": 4.53,
+    "market_price_per_kg": 0.56,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.74
+  },
+  "sesame": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 5.06,
+    "market_price_per_kg": 4.79,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.72
+  },
+  "valley cherry sesame": {
+    "seed_cost_multiplier": 0.81,
+    "yield_per_sqm": 5.97,
+    "market_price_per_kg": 2.13,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.38
+  },
+  "alpine nantes sesame": {
+    "seed_cost_multiplier": 1.18,
+    "yield_per_sqm": 5.06,
+    "market_price_per_kg": 3.81,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.71
+  },
+  "hybrid romaine sesame": {
+    "seed_cost_multiplier": 1.53,
+    "yield_per_sqm": 1.2,
+    "market_price_per_kg": 3.86,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.97
+  },
+  "organic short sesame": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 0.8,
+    "market_price_per_kg": 1.43,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.87
+  },
+  "royal globe sesame": {
+    "seed_cost_multiplier": 1.35,
+    "yield_per_sqm": 2.85,
+    "market_price_per_kg": 4.02,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.44
+  },
+  "desert beefsteak sesame": {
+    "seed_cost_multiplier": 0.67,
+    "yield_per_sqm": 4.89,
+    "market_price_per_kg": 3.44,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.34
+  },
+  "tender white sesame": {
+    "seed_cost_multiplier": 1.74,
+    "yield_per_sqm": 1.73,
+    "market_price_per_kg": 4.7,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.8
+  },
+  "heirloom long sesame": {
+    "seed_cost_multiplier": 1.0,
+    "yield_per_sqm": 5.08,
+    "market_price_per_kg": 3.31,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.23
+  },
+  "sweet danvers sesame": {
+    "seed_cost_multiplier": 1.11,
+    "yield_per_sqm": 2.13,
+    "market_price_per_kg": 2.2,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.47
+  },
+  "sorghum": {
+    "seed_cost_multiplier": 1.54,
+    "yield_per_sqm": 3.82,
+    "market_price_per_kg": 3.26,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.44
+  },
+  "heirloom yukon sorghum": {
+    "seed_cost_multiplier": 2.13,
+    "yield_per_sqm": 0.81,
+    "market_price_per_kg": 1.13,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.05
+  },
+  "organic danvers sorghum": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 1.59,
+    "market_price_per_kg": 3.46,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.41
+  },
+  "crisp iceberg sorghum": {
+    "seed_cost_multiplier": 2.15,
+    "yield_per_sqm": 5.31,
+    "market_price_per_kg": 1.27,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.36
+  },
+  "crisp yellow sorghum": {
+    "seed_cost_multiplier": 2.46,
+    "yield_per_sqm": 3.35,
+    "market_price_per_kg": 2.26,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.82
+  },
+  "organic savoy sorghum": {
+    "seed_cost_multiplier": 1.97,
+    "yield_per_sqm": 1.49,
+    "market_price_per_kg": 2.53,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.28
+  },
+  "sunrise long sorghum": {
+    "seed_cost_multiplier": 2.0,
+    "yield_per_sqm": 4.81,
+    "market_price_per_kg": 4.86,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.83
+  },
+  "golden beefsteak sorghum": {
+    "seed_cost_multiplier": 0.98,
+    "yield_per_sqm": 1.28,
+    "market_price_per_kg": 2.81,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.13
+  },
+  "giant globe sorghum": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 0.76,
+    "market_price_per_kg": 4.08,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.72
+  },
+  "crimson yellow sorghum": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 5.37,
+    "market_price_per_kg": 2.16,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.22
+  },
+  "soy": {
+    "seed_cost_multiplier": 1.39,
+    "yield_per_sqm": 0.65,
+    "market_price_per_kg": 2.73,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.47
+  },
+  "winter red soy": {
+    "seed_cost_multiplier": 1.84,
+    "yield_per_sqm": 1.04,
+    "market_price_per_kg": 3.03,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.2
+  },
+  "spicy round soy": {
+    "seed_cost_multiplier": 1.21,
+    "yield_per_sqm": 2.94,
+    "market_price_per_kg": 1.73,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.1
+  },
+  "tender sweet soy": {
+    "seed_cost_multiplier": 1.97,
+    "yield_per_sqm": 2.82,
+    "market_price_per_kg": 0.92,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.16
+  },
+  "crisp long soy": {
+    "seed_cost_multiplier": 1.04,
+    "yield_per_sqm": 2.49,
+    "market_price_per_kg": 3.0,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.86
+  },
+  "emerald butterhead soy": {
+    "seed_cost_multiplier": 2.34,
+    "yield_per_sqm": 1.61,
+    "market_price_per_kg": 3.68,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.14
+  },
+  "crisp yukon soy": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 5.71,
+    "market_price_per_kg": 4.45,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.86
+  },
+  "giant danvers soy": {
+    "seed_cost_multiplier": 0.67,
+    "yield_per_sqm": 5.96,
+    "market_price_per_kg": 3.36,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.44
+  },
+  "urban nantes soy": {
+    "seed_cost_multiplier": 1.93,
+    "yield_per_sqm": 1.07,
+    "market_price_per_kg": 1.94,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.86
+  },
+  "winter cherry soy": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 0.85,
+    "market_price_per_kg": 1.32,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.14
+  },
+  "sunflower": {
+    "seed_cost_multiplier": 1.29,
+    "yield_per_sqm": 5.77,
+    "market_price_per_kg": 1.43,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.22
+  },
+  "early iceberg sunflower": {
+    "seed_cost_multiplier": 1.37,
+    "yield_per_sqm": 1.78,
+    "market_price_per_kg": 1.67,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.25
+  },
+  "heirloom iceberg sunflower": {
+    "seed_cost_multiplier": 0.52,
+    "yield_per_sqm": 3.48,
+    "market_price_per_kg": 1.52,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.83
+  },
+  "early romaine sunflower": {
+    "seed_cost_multiplier": 0.86,
+    "yield_per_sqm": 3.63,
+    "market_price_per_kg": 3.43,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.83
+  },
+  "golden yukon sunflower": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 3.87,
+    "market_price_per_kg": 2.05,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.47
+  },
+  "giant long sunflower": {
+    "seed_cost_multiplier": 1.17,
+    "yield_per_sqm": 5.34,
+    "market_price_per_kg": 1.57,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.39
+  },
+  "tender short sunflower": {
+    "seed_cost_multiplier": 1.01,
+    "yield_per_sqm": 2.26,
+    "market_price_per_kg": 2.59,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.38
+  },
+  "urban sweet sunflower": {
+    "seed_cost_multiplier": 1.54,
+    "yield_per_sqm": 2.88,
+    "market_price_per_kg": 1.24,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.28
+  },
+  "summer roma sunflower": {
+    "seed_cost_multiplier": 2.49,
+    "yield_per_sqm": 5.71,
+    "market_price_per_kg": 3.83,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.93
+  },
+  "desert jalapeno sunflower": {
+    "seed_cost_multiplier": 1.22,
+    "yield_per_sqm": 3.24,
+    "market_price_per_kg": 4.45,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.06
+  },
+  "sweetcorn": {
+    "seed_cost_multiplier": 0.96,
+    "yield_per_sqm": 5.83,
+    "market_price_per_kg": 2.36,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.22
+  },
+  "alpine roma sweetcorn": {
+    "seed_cost_multiplier": 0.89,
+    "yield_per_sqm": 5.72,
+    "market_price_per_kg": 1.92,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.94
+  },
+  "summer cherry sweetcorn": {
+    "seed_cost_multiplier": 1.61,
+    "yield_per_sqm": 4.23,
+    "market_price_per_kg": 2.81,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.3
+  },
+  "hybrid nantes sweetcorn": {
+    "seed_cost_multiplier": 1.31,
+    "yield_per_sqm": 1.11,
+    "market_price_per_kg": 3.36,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.77
+  },
+  "royal russet sweetcorn": {
+    "seed_cost_multiplier": 1.68,
+    "yield_per_sqm": 5.17,
+    "market_price_per_kg": 4.45,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.39
+  },
+  "late imperator sweetcorn": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 1.32,
+    "market_price_per_kg": 2.48,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.87
+  },
+  "desert cherry sweetcorn": {
+    "seed_cost_multiplier": 1.98,
+    "yield_per_sqm": 3.65,
+    "market_price_per_kg": 3.83,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.81
+  },
+  "giant yellow sweetcorn": {
+    "seed_cost_multiplier": 1.88,
+    "yield_per_sqm": 3.39,
+    "market_price_per_kg": 0.83,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.48
+  },
+  "royal baby sweetcorn": {
+    "seed_cost_multiplier": 1.87,
+    "yield_per_sqm": 1.56,
+    "market_price_per_kg": 4.5,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.74
+  },
+  "heirloom cherry sweetcorn": {
+    "seed_cost_multiplier": 1.52,
+    "yield_per_sqm": 5.29,
+    "market_price_per_kg": 2.58,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.31
+  },
+  "taro": {
+    "seed_cost_multiplier": 2.09,
+    "yield_per_sqm": 3.69,
+    "market_price_per_kg": 0.91,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.01
+  },
+  "early baby taro": {
+    "seed_cost_multiplier": 2.31,
+    "yield_per_sqm": 4.77,
+    "market_price_per_kg": 4.03,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.06
+  },
+  "summer round taro": {
+    "seed_cost_multiplier": 0.97,
+    "yield_per_sqm": 1.06,
+    "market_price_per_kg": 2.14,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.46
+  },
+  "valley russet taro": {
+    "seed_cost_multiplier": 0.6,
+    "yield_per_sqm": 1.68,
+    "market_price_per_kg": 3.03,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.92
+  },
+  "emerald white taro": {
+    "seed_cost_multiplier": 0.79,
+    "yield_per_sqm": 1.88,
+    "market_price_per_kg": 3.22,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.27
+  },
+  "early beefsteak taro": {
+    "seed_cost_multiplier": 2.2,
+    "yield_per_sqm": 1.19,
+    "market_price_per_kg": 1.09,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.01
+  },
+  "valley roma taro": {
+    "seed_cost_multiplier": 0.88,
+    "yield_per_sqm": 1.15,
+    "market_price_per_kg": 1.99,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.82
+  },
+  "crisp russet taro": {
+    "seed_cost_multiplier": 0.73,
+    "yield_per_sqm": 1.81,
+    "market_price_per_kg": 3.67,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.07
+  },
+  "dwarf sweet taro": {
+    "seed_cost_multiplier": 2.37,
+    "yield_per_sqm": 2.37,
+    "market_price_per_kg": 4.72,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.75
+  },
+  "crisp yellow taro": {
+    "seed_cost_multiplier": 1.81,
+    "yield_per_sqm": 5.14,
+    "market_price_per_kg": 2.79,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.42
+  },
+  "thyme": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 3.34,
+    "market_price_per_kg": 2.65,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.16
+  },
+  "sunrise long thyme": {
+    "seed_cost_multiplier": 1.08,
+    "yield_per_sqm": 5.41,
+    "market_price_per_kg": 1.25,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.47
+  },
+  "valley imperator thyme": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 5.16,
+    "market_price_per_kg": 4.94,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.88
+  },
+  "desert danvers thyme": {
+    "seed_cost_multiplier": 2.07,
+    "yield_per_sqm": 2.49,
+    "market_price_per_kg": 1.91,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.39
+  },
+  "valley nantes thyme": {
+    "seed_cost_multiplier": 2.11,
+    "yield_per_sqm": 5.16,
+    "market_price_per_kg": 3.16,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.15
+  },
+  "alpine baby thyme": {
+    "seed_cost_multiplier": 0.71,
+    "yield_per_sqm": 1.35,
+    "market_price_per_kg": 0.89,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.03
+  },
+  "wild russet thyme": {
+    "seed_cost_multiplier": 1.27,
+    "yield_per_sqm": 2.83,
+    "market_price_per_kg": 1.87,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.91
+  },
+  "desert red thyme": {
+    "seed_cost_multiplier": 0.75,
+    "yield_per_sqm": 2.36,
+    "market_price_per_kg": 3.31,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.41
+  },
+  "sunrise nantes thyme": {
+    "seed_cost_multiplier": 1.51,
+    "yield_per_sqm": 4.61,
+    "market_price_per_kg": 4.29,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.97
+  },
+  "giant baby thyme": {
+    "seed_cost_multiplier": 1.68,
+    "yield_per_sqm": 5.51,
+    "market_price_per_kg": 2.63,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.19
+  },
+  "turnip": {
+    "seed_cost_multiplier": 1.03,
+    "yield_per_sqm": 1.94,
+    "market_price_per_kg": 3.12,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.74
+  },
+  "wild iceberg turnip": {
+    "seed_cost_multiplier": 2.43,
+    "yield_per_sqm": 2.8,
+    "market_price_per_kg": 1.95,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.73
+  },
+  "summer iceberg turnip": {
+    "seed_cost_multiplier": 2.06,
+    "yield_per_sqm": 0.59,
+    "market_price_per_kg": 4.2,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.12
+  },
+  "golden habanero turnip": {
+    "seed_cost_multiplier": 1.07,
+    "yield_per_sqm": 1.74,
+    "market_price_per_kg": 4.45,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.12
+  },
+  "winter round turnip": {
+    "seed_cost_multiplier": 0.68,
+    "yield_per_sqm": 2.59,
+    "market_price_per_kg": 1.02,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.77
+  },
+  "winter yellow turnip": {
+    "seed_cost_multiplier": 1.76,
+    "yield_per_sqm": 2.0,
+    "market_price_per_kg": 4.56,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.49
+  },
+  "organic baby turnip": {
+    "seed_cost_multiplier": 1.56,
+    "yield_per_sqm": 0.85,
+    "market_price_per_kg": 2.62,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.01
+  },
+  "sunrise cherry turnip": {
+    "seed_cost_multiplier": 0.8,
+    "yield_per_sqm": 0.86,
+    "market_price_per_kg": 3.93,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.71
+  },
+  "hybrid white turnip": {
+    "seed_cost_multiplier": 1.23,
+    "yield_per_sqm": 4.82,
+    "market_price_per_kg": 3.45,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.33
+  },
+  "summer beefsteak turnip": {
+    "seed_cost_multiplier": 2.12,
+    "yield_per_sqm": 4.78,
+    "market_price_per_kg": 1.19,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.9
+  },
+  "vanilla": {
+    "seed_cost_multiplier": 1.78,
+    "yield_per_sqm": 3.25,
+    "market_price_per_kg": 4.32,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.86
+  },
+  "early globe vanilla": {
+    "seed_cost_multiplier": 1.71,
+    "yield_per_sqm": 5.68,
+    "market_price_per_kg": 3.83,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.86
+  },
+  "late short vanilla": {
+    "seed_cost_multiplier": 0.89,
+    "yield_per_sqm": 3.25,
+    "market_price_per_kg": 4.09,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.2
+  },
+  "urban russet vanilla": {
+    "seed_cost_multiplier": 2.14,
+    "yield_per_sqm": 1.32,
+    "market_price_per_kg": 4.87,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.94
+  },
+  "winter yellow vanilla": {
+    "seed_cost_multiplier": 0.78,
+    "yield_per_sqm": 1.34,
+    "market_price_per_kg": 2.41,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.84
+  },
+  "spicy butterhead vanilla": {
+    "seed_cost_multiplier": 2.29,
+    "yield_per_sqm": 4.11,
+    "market_price_per_kg": 2.63,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.33
+  },
+  "tender habanero vanilla": {
+    "seed_cost_multiplier": 1.03,
+    "yield_per_sqm": 5.2,
+    "market_price_per_kg": 1.17,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.14
+  },
+  "late bell vanilla": {
+    "seed_cost_multiplier": 2.5,
+    "yield_per_sqm": 2.49,
+    "market_price_per_kg": 4.07,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.2
+  },
+  "late yukon vanilla": {
+    "seed_cost_multiplier": 2.28,
+    "yield_per_sqm": 2.32,
+    "market_price_per_kg": 2.33,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.71
+  },
+  "wild beefsteak vanilla": {
+    "seed_cost_multiplier": 1.79,
+    "yield_per_sqm": 5.2,
+    "market_price_per_kg": 4.59,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.46
+  },
+  "walnut": {
+    "seed_cost_multiplier": 1.9,
+    "yield_per_sqm": 3.42,
+    "market_price_per_kg": 3.12,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.24
+  },
+  "wild beefsteak walnut": {
+    "seed_cost_multiplier": 1.0,
+    "yield_per_sqm": 1.81,
+    "market_price_per_kg": 1.92,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.23
+  },
+  "winter red walnut": {
+    "seed_cost_multiplier": 1.28,
+    "yield_per_sqm": 2.37,
+    "market_price_per_kg": 4.06,
+    "growing_period_months": 4,
+    "labor_multiplier": 1.21
+  },
+  "golden romaine walnut": {
+    "seed_cost_multiplier": 1.57,
+    "yield_per_sqm": 3.7,
+    "market_price_per_kg": 1.25,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.05
+  },
+  "wild baby walnut": {
+    "seed_cost_multiplier": 0.73,
+    "yield_per_sqm": 0.98,
+    "market_price_per_kg": 2.06,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.11
+  },
+  "midnight imperator walnut": {
+    "seed_cost_multiplier": 2.2,
+    "yield_per_sqm": 4.08,
+    "market_price_per_kg": 2.24,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.78
+  },
+  "wild yukon walnut": {
+    "seed_cost_multiplier": 1.27,
+    "yield_per_sqm": 3.79,
+    "market_price_per_kg": 0.58,
+    "growing_period_months": 6,
+    "labor_multiplier": 1.32
+  },
+  "golden butterhead walnut": {
+    "seed_cost_multiplier": 1.47,
+    "yield_per_sqm": 2.26,
+    "market_price_per_kg": 4.39,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.79
+  },
+  "giant butterhead walnut": {
+    "seed_cost_multiplier": 2.0,
+    "yield_per_sqm": 2.67,
+    "market_price_per_kg": 4.03,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.13
+  },
+  "crisp iceberg walnut": {
+    "seed_cost_multiplier": 0.94,
+    "yield_per_sqm": 3.32,
+    "market_price_per_kg": 4.82,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.21
+  },
+  "watermelon": {
+    "seed_cost_multiplier": 2.07,
+    "yield_per_sqm": 3.49,
+    "market_price_per_kg": 3.58,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.23
+  },
+  "wild round watermelon": {
+    "seed_cost_multiplier": 1.6,
+    "yield_per_sqm": 3.17,
+    "market_price_per_kg": 1.82,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.39
+  },
+  "desert yukon watermelon": {
+    "seed_cost_multiplier": 0.73,
+    "yield_per_sqm": 1.08,
+    "market_price_per_kg": 2.01,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.02
+  },
+  "organic yellow watermelon": {
+    "seed_cost_multiplier": 0.5,
+    "yield_per_sqm": 4.61,
+    "market_price_per_kg": 4.98,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.72
+  },
+  "summer romaine watermelon": {
+    "seed_cost_multiplier": 1.18,
+    "yield_per_sqm": 4.53,
+    "market_price_per_kg": 4.19,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.92
+  },
+  "urban roma watermelon": {
+    "seed_cost_multiplier": 1.12,
+    "yield_per_sqm": 2.4,
+    "market_price_per_kg": 3.71,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.75
+  },
+  "golden yellow watermelon": {
+    "seed_cost_multiplier": 0.87,
+    "yield_per_sqm": 1.14,
+    "market_price_per_kg": 2.39,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.24
+  },
+  "royal globe watermelon": {
+    "seed_cost_multiplier": 1.82,
+    "yield_per_sqm": 1.69,
+    "market_price_per_kg": 1.9,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.38
+  },
+  "wild short watermelon": {
+    "seed_cost_multiplier": 2.41,
+    "yield_per_sqm": 5.16,
+    "market_price_per_kg": 1.54,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.81
+  },
+  "tender white watermelon": {
+    "seed_cost_multiplier": 1.15,
+    "yield_per_sqm": 4.94,
+    "market_price_per_kg": 4.68,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.09
+  },
+  "yam": {
+    "seed_cost_multiplier": 1.71,
+    "yield_per_sqm": 3.54,
+    "market_price_per_kg": 3.0,
+    "growing_period_months": 2,
+    "labor_multiplier": 1.38
+  },
+  "late russet yam": {
+    "seed_cost_multiplier": 1.59,
+    "yield_per_sqm": 4.56,
+    "market_price_per_kg": 0.61,
+    "growing_period_months": 5,
+    "labor_multiplier": 0.89
+  },
+  "summer yukon yam": {
+    "seed_cost_multiplier": 0.74,
+    "yield_per_sqm": 3.61,
+    "market_price_per_kg": 0.58,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.9
+  },
+  "desert beefsteak yam": {
+    "seed_cost_multiplier": 2.19,
+    "yield_per_sqm": 5.1,
+    "market_price_per_kg": 3.02,
+    "growing_period_months": 3,
+    "labor_multiplier": 0.86
+  },
+  "valley beefsteak yam": {
+    "seed_cost_multiplier": 0.56,
+    "yield_per_sqm": 3.04,
+    "market_price_per_kg": 4.87,
+    "growing_period_months": 5,
+    "labor_multiplier": 1.18
+  },
+  "dwarf white yam": {
+    "seed_cost_multiplier": 2.28,
+    "yield_per_sqm": 2.28,
+    "market_price_per_kg": 4.65,
+    "growing_period_months": 4,
+    "labor_multiplier": 0.8
+  },
+  "early bell yam": {
+    "seed_cost_multiplier": 1.71,
+    "yield_per_sqm": 2.82,
+    "market_price_per_kg": 3.59,
+    "growing_period_months": 2,
+    "labor_multiplier": 0.78
+  },
+  "giant savoy yam": {
+    "seed_cost_multiplier": 1.54,
+    "yield_per_sqm": 1.0,
+    "market_price_per_kg": 0.67,
+    "growing_period_months": 6,
+    "labor_multiplier": 0.86
+  },
+  "summer cherry yam": {
+    "seed_cost_multiplier": 1.66,
+    "yield_per_sqm": 5.15,
+    "market_price_per_kg": 3.22,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.31
+  },
+  "sunrise danvers yam": {
+    "seed_cost_multiplier": 1.4,
+    "yield_per_sqm": 1.14,
+    "market_price_per_kg": 4.1,
+    "growing_period_months": 3,
+    "labor_multiplier": 1.47
+  }
+}
